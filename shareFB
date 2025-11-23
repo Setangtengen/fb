@@ -1526,10 +1526,10 @@ SSC TV
 
 
 
-#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS" tvg-logo="https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_SportsConnection.jpg" group-logo="", Sports Connect
+#EXTINF:-1 tvg-id="Lokal" group-title="SPORTS" tvg-logo="https://www.nintendo.com/eu/media/images/10_share_images/games_15/wiiu_14/SI_WiiU_SportsConnection.jpg" group-logo="", Sports Connect⭐⭐⭐
 #KODIPROP:inputstream.adaptive.manifest_type=hls
 #EXTVLCOPT:http-user-agent=Spotify/8.5.51 iOS/13.1.2 (iPhone8)
-https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/abr_satellitechannel/satch_sportsconnect_360p/chunks.m3u8
+⭐⭐⭐###https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/abr_satellitechannel/satch_sportsconnect_360p/chunks.m3u8
 
 
 
@@ -1580,28 +1580,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 
-#EXTINF:-1 tvg-id="Sports" tvg-name="Sports" group-title="SPORTS 2 HD" tvg-logo="https://cdn3.whatculture.com/images/2019/04/e9aca07490fa72b2-600x338.jpg", W_NETWORK TV
+#EXTINF:-1 tvg-id="Sports" tvg-name="Sports" group-title="SPORTS 2 HD" tvg-logo="https://cdn3.whatculture.com/images/2019/04/e9aca07490fa72b2-600x338.jpg", W_NETWORK TV⭐⭐⭐
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=00208c93f4358213b52220898b962385:8ae6063167228e350dd132d4a1573102
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
+⭐⭐⭐#####https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUDcqJop58uo9S1iYnkc7Npv0qqeVSBz3iqw&s" group-title="SPORTS 2 HD", DAZN 01
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/znsa.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1o4eamzb4env61ddc8wv4ra06l_image-header_pRow_1720521601000&quality=10" group-title="SPORTS 2 HD", DAZN /1
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn1.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=6vqvum5g288n1lgqwvq6vlim1_image-header_pRow_1720521637000&quality=10" group-title="SPORTS 2 HD", DAZN 2
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn2.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=1twx1j8a3gge219010n6o2qlgx_image-header_pRow_1720521671000&quality=10" group-title="SPORTS 2 HD", DAZN 3
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn3.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a5inhkok5yrf1826le2ie3gxh_image-header_pRow_1720521702000&quality=10" group-title="SPORTS 2 HD", DAZN 4
-https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn4.m3u8
 
 #EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 1
 http://tv.8dott.xyz:80/live/samuel/samuel123456/697057.ts
@@ -5103,45 +5089,6 @@ https://wahyu1ptv.pages.dev/kPopCjENM.m3u8
 
 
 
-
-#EXTINF:-1 tvg-id=""  tvg-id="" tvg-url="" tvg-logo="https://i.ytimg.com/vi/wd9OhD7W34Y/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC1CCr3fyXD_sYUXu-T0ePJXPgKtg" group-title="Christian Channels",Catholic TV
-https://catholictvhd-lh.akamaized.net/hls/live/2043390/CTVLiveHD/playlist_4.m3u8
-
-
-
-#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://thumbor.prod.vidiocdn.com/XQ7S6mCC_UcN7TbF28xwGbQ1PD8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6853/reformed-21-tv-b1db6d.jpg" group-title="Christian Channels",Reformed21
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=d412681b35e04498a2f9c4abdf327902:0da82dde987976fa3b3bc14943ef2fae
-https://atemeshield1-voe.sysln.id/live/eds/Reformed21HD/mpd/Reformed21HD.mpd
-
-
-#EXTINF:-1 tvg-url="https://bit.ly/JejeVisionEPG" tvg-id="https://bit.ly/IndonesiaEpg" tvg-logo="https://download-warehouse.sketchup.com/warehouse/v1.0/content/public/a583a46c-cc7b-4f29-a7c8-8dbcfd92f4f2" group-title="Christian Channels",EWTN
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=33b71e0fd4e74614b55c5e4399e2eb9c:f5bae0f7ea037e59a8b2a7851954ecbe
-https://atemecdnbalancer-voe.sysln.id/live/eds/EWTN/mpd/EWTN.mpd
-
-
-#EXTINF:-1 group-title="Christian Channels" tvg-name="" tvg-country="ID" tvg-logo="https://www.firstmedia.com/_next/image?url=https%3A%2F%2Fflmngr.firstmedia.com%2Ffiles%2Flogos%2Fchannels%2F5-FAITH%2FGMS%20Channel%20HD-FirstMedia-Chl-389.jpg&w=1920&q=100",GMS HD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=848dfd2cd72b42baad634ea61a3b0285:42e281d95bdd33b0f0f206a9ff393011
-https://atemeshield1-voe.sysln.id/live/eds/GMSChannelHD/mpd/GMSChannelHD.mpd
-
-
-#EXTINF:-1 group-title="Christian Channels"  tvg-name="" tvg-country="ID" tvg-logo="https://pic.bstarstatic.com/ugc/6936c5875de6e1124e029a3595682861.jpg@336w_188h_1e_1c_90q.webp",Kairos
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e59e1e60b92407c972178c7959ec340:cdfcef62ac2b749f3e0d95c135647bac
-https://atemecdnbalancer-voe.sysln.id/live/eds/Kairos/mpd/Kairos.mpd
-
-
-#EXTINF:-1 group-title="Christian Channels"  tvg-name="" tvg-country="ID" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoQ92SGUSI-UOoCb1U2o5GvJbk3M5rsQCOlA&s",TBN Asia
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=ad871d41c5ce48e68d387a52a0d30066:0fd2a3a055367f7f4ac2920b5d027edc
-https://atemecdnbalancer-voe.sysln.id/live/eds/TBNAsia/mpd/TBNAsia.mpd
 
 
 
