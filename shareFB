@@ -743,9 +743,10 @@ https://btv.secureswiftcontent.com/han/btv/btv10005/srtoutput/manifest.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://thumbor.prod.vidiocdn.com/2fcK2Yn5-6El6-nRsHb_1b5rhDQ=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/206/moji-a19694.jpg" group-title="Indonesia Channels", MOJI TV
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
-
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
+https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mediampd/MOJIOChannel.mpd
 
 
 
@@ -2031,7 +2032,10 @@ PRIMA SPORT
 
 
 
-#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1&quot; tvg-logo="https://i.ytimg.com/vi/6A0Aa_5tIc0/mqdefault.jpg" group-title="SPORTS 2 FHD", Prima Sport 1 ⭐⭐⭐
+#EXTINF:-1 tvg-id="PrimaSport1.ro" tvg-name="Prima Sport 1&quot; tvg-logo="https://i.ytimg.com/vi/6A0Aa_5tIc0/mqdefault.jpg" group-title="SPORTS 2 FHD", Prima Sport 1
+#EXTVLCOPT:http-referrer=https://saruman1.tharen1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://saruman1.tharen1.cfd/puk1/usergenrx0cir27aq.m3u8
 
 
 
@@ -2042,7 +2046,10 @@ https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 
 
 
-#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR25UT3ORm_VB064OxhS9tNS2EPsZI82ua4eQ&s" group-title="SPORTS 2 FHD" ,Prima Sport 3 ⭐⭐⭐
+#EXTINF:-1 tvg-id="PrimaSport3.ro" tvg-name="Prima Sport 3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR25UT3ORm_VB064OxhS9tNS2EPsZI82ua4eQ&s" group-title="SPORTS 2 FHD" ,Prima Sport 3
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx1.cfd/000/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://iron1.jarvisx1.cfd/puk3/usergenrx4t0l8sybkr.m3u8
 
 
 
@@ -2050,6 +2057,14 @@ https://arwen1.panaka1.cfd/puk2/usergenrnd0clv03fyt.m3u8
 #EXTINF:-1 tvg-id="PrimaSport4.ro" tvg-name="Prima Sport 4" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Prima_Sport_4_Station_ID.png/revision/latest/scale-to-width-down/250?cb=20230326135104" group-title="SPORTS 2 FHD" ,Prima Sport 4 
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
 https://galandriel1.thobias.cfd/puk4/usergendx42x9qrnd.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="PrimaSport5.ro" tvg-name="Prima Sport 5" tvg-logo="https://www.media-max.ro/wp-content/uploads/2024/10/Prima-Sport-5-revine-in-grila-Vodafone.jpg" group-title="SPORTS 2 FHD" ,Prima Sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/
+https://galandriel1.thobias.cfd/puk5/usergen0grnd3y8.m3u8
 
 
 
