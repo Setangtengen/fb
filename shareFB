@@ -670,9 +670,9 @@ https://warningfm.github.io/v3/live/str/id/575eeb9f08dc8db.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
 #EXTVLCOPT:network-caching=1000
-#EXTVLCOPT:http-reconnect=true
+#EXTVLCOPT--http-reconnect=true
 #EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
-https://zozotv.xyz:443/live/DW3152A/@my8074/4633.ts
+http://ktpremium.online:2095/live/kt1107/110753906/73617.ts
 
 ####http://103.46.10.145:9981/stream/channelid/2068418811?ticket=F6A638CAE3935CAFE3EF877AC34403F7AF116910&profile=pass
 ###https://raw.githubusercontent.com/SebutsajaMawar11/Pelanggan1/refs/heads/main/jembut-idsr.m3u8
