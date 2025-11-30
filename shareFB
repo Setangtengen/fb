@@ -71,26 +71,26 @@
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/HquMBn3dG14/hqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE SAGARA MUSIC - SAK JOSEE
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764506625/ei/oecraePHCKjWz7sP2fTPkQc/ip/160.22.128.114/id/HquMBn3dG14.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AdEuB5SERliMGwBwydxMaOyvNEroXYcnAgfTueyLid9gepL3PqJCGWQeRhjsxua7fRLdhRyzag/spc/6b0G_HYyHRvDbeD9foOf0MAQSPCQr-ZJD-Uvivn7-MT3D-a4ExZW/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgP_V_YyjR9Fs-mSo5INuugOHHA9ur8NIYX8iigPvCLyICIEPOWwMjYmzwn2ueWMHoXhBL0Ixyw268poq-AvL2i5GI/file/index.m3u8
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/s3Tx6pA7NJc/hqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴LIVE NEW SATRIA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764506837/ei/degracf1E6Xg4-EPosq5-AQ/ip/160.22.128.114/id/s3Tx6pA7NJc.1~45706471/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AdEuB5S5_RErFn9vYbplqsXzR38PiI9FeIsQX81yKLKTkwwa5GyocG5kjRwA6E5MUtehdbCBtQ/spc/6b0G_IEwzqUhY49gni22V5MzB7_1qFd8Skw2Ix4CGibFeS2kRVej/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgc2u1EKtheMvfTlJfBGv3xXyahC_79yJ0zpmX8PvvDysCIGJt_SImI1JsQzevwOXtLZH3BZl2WgCqttfaG8ALe85a/file/index.m3u8
+
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/m4ksmI09YaE/hqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴LIVE TATO MUSIC
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764506962/ei/8ugrad6YAvLfssUPtsGw-AI/ip/160.22.128.114/id/m4ksmI09YaE.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AdEuB5RhqR5okBtEavr_7T4V6I6zTkVXPGSmTTnhT1R3l07R3SJYaibCyDzm-kUsQF6_RB3SiQ/spc/6b0G_DrOHbtvUCKllPFdnaAgypQhIJNibWXJxjxscopmvFdKAkKG/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhAP6zcRemekocIWSzSw8-YUPlmQ9LSr-RKfYvHJ39CAjbAiAbprxrSuOHCJLN3f6D-BxKUj2LHZBgHFjgLykuPANeOw%3D%3D/file/index.m3u8
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/e4HpkHjZCV4/mqdefault.jpg" group-title="- MDM LIVE STREAM -",🔴 LIVE WEDDING MERY & ALI - PANDANHARUM 30 NOVEMBER 2025
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764507157/ei/tekraevULLzS3LUPqYPi-Qo/ip/160.22.128.114/id/wXi9-GTcDjg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51539831/txs/51539830%2C51539831/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AdEuB5TqRQiMCq8IrTQsUsunK5m5ysbTZbwrC9ZvFyOrFbxQJlEFq97kYXbgAmMRcyHZ7noCIA/spc/6b0G_BDPH39VzNXKvntm9hGPRVooJKOVr-Ov6rVVhKJ1MGQGu3Gr/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912%2C51552689%2C51565116%2C51565681%2C51580968/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgPnyU7MJu7vnK_FYBc62Nw0fGIkfCZ0e-5S1JlnuO-koCIFpToQ4cawNes5mcMvCWbcRHhsBEeJbD9eIL_1_0KrdB/file/index.m3u8
+
+
 
 #EXTVLCOPT:http-referrer=http://dens.tv
 #https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
@@ -106,7 +106,7 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1764507157/ei/t
 #EXTVLCOPT:http-referrer=http://dens.tv
 #https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
+#####https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
 
 
 
@@ -116,7 +116,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=l
 #EXTVLCOPT:http-referrer=http://dens.tv
 #https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
+####https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
 
 
 
@@ -126,7 +126,7 @@ https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=l
 #EXTVLCOPT:http-referrer=http://dens.tv
 #https://op-group1-swiftservehd-1.dens.tv/h/h108/S4/mnf.m3u8
 #https://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
-https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
+####https://op-group1-swiftservehd-1.dens.tv/h/h208/index.m3u8?app_type=web&userid=lite&chname=channel-jowo
 
 
 
