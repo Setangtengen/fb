@@ -1187,15 +1187,12 @@ skysport
 ____________
 rush sport
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.squarespace-cdn.com/content/v1/66424c44e54a15243b00cf7d/b36c1ca7-86cf-40a5-8bd1-6bcd4b696ba0/RushSports.png?format=750w",RUSH SPORTS
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1109/CMAF/manifest.mpd
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.squarespace-cdn.com/content/v1/66424c44e54a15243b00cf7d/b36c1ca7-86cf-40a5-8bd1-6bcd4b696ba0/RushSports.png?format=750w",RUSH SPORTS⭐⭐⭐⭐⭐⭐
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.squarespace-cdn.com/content/v1/66424c44e54a15243b00cf7d/9393da61-03c5-46b8-a316-2c93c3335277/rushsports+2.png?format=750w",RUSH SPORTS 2
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1779c27b9d077a3ba0c9cc1bb9a94b9f:cc5cf3b7928fb9e0a1ee6a8b566f0a8e
-https://cdn-l3-jam-1.sportsmax.digicelgroup.com/sportsmax/live/ott/live/1110/CMAF/manifest.mpd
+
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://images.squarespace-cdn.com/content/v1/66424c44e54a15243b00cf7d/9393da61-03c5-46b8-a316-2c93c3335277/rushsports+2.png?format=750w",RUSH SPORTS 2⭐⭐⭐⭐⭐⭐
+
 
 
 ____________________
@@ -1684,20 +1681,24 @@ http://tv.8dott.xyz:80/live/samuel/samuel123456/356436.ts
 
 
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 1
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/186853
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 1⭐⭐⭐
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 2
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/186854
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 3
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/356598
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 4
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/186856
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 2⭐⭐⭐
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 5
-http://superintendent.whatevergos.com:8080/ABDULLAH/aHVzDrpCMh/186857
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 3⭐⭐⭐
+
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 4⭐⭐⭐
+
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 5⭐⭐⭐
+
 
 
 
