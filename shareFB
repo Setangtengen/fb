@@ -1334,28 +1334,20 @@ https://f7ccf7fc.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdX
 __________________
 DAZN TV
 
-#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS" ch-number="1" type="channel",DAZN 1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-580/stream.mpd
+#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS" ch-number="1" type="channel",DAZN 1⭐⭐⭐⭐
 
 
-#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS" ch-number="2" type="channel",DAZN 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-581/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS" ch-number="2" type="channel",DAZN 2⭐⭐⭐⭐
 
 
-#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS" ch-number="3" type="channel",DAZN 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-582/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS" ch-number="3" type="channel",DAZN 3⭐⭐⭐⭐
 
 
-#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS" ch-number="4" type="channel",DAZN 4
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dck-ac-live.cdn.indazn.com/dash/dazn-linear-583/stream.mpd
+
+#EXTINF:-1 tvg-logo="https://www.advanced-television.com/wp-content/uploads/2024/02/DAznSportYoutube.png" group-title="SPORTS" ch-number="4" type="channel",DAZN 4⭐⭐⭐⭐
+
 
 
 
