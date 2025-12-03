@@ -1647,57 +1647,227 @@ https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 
 
 ____________
-skysport
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.movietele.it/wp-content/uploads/2015/11/sky-sport-motogp-logo-w640-e99-1280x720.jpg", SKY SPORTS_MotoGP A1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-http://tv.8dott.xyz:80/live/samuel/samuel123456/846192.ts
+---------
+arena sport
 
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.movietele.it/wp-content/uploads/2015/11/sky-sport-motogp-logo-w640-e99-1280x720.jpg", SKY SPORTS_MotoGP A2
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
-#####https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPI3zI83ha31lPr3qEyJnT3yWKdDh-9y5Ggw&s", Arena Sport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://185.166.252.230/Arena1/index.m3u8
 
 
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://540k006f.tinifycdn.com/images/content/sky_sport_f1_logo_2x1.jpg", SKY SPORTS_F1 A1 ⭐⭐⭐
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://540k006f.tinifycdn.com/images/content/sky_sport_f1_logo_2x1.jpg", SKY SPORTS_F1 A2 ⭐⭐⭐
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPI3zI83ha31lPr3qEyJnT3yWKdDh-9y5Ggw&s", Arena Sport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://185.166.252.230/Arena2/index.m3u8
 
 
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://nomadstudio.ams3.digitaloceanspaces.com/images/Work-Case-Studies/Sky-Sports/SS_WORDS2-01.png", SKY SPORTS_PREMIER LEAGUE ⭐⭐⭐
-
-
-  
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logosfake/images/a/ad/Sky_Sports_Football_ID_2017.png/revision/latest/scale-to-width-down/1200?cb=20200802163414", SKY SPORTS_FOOTBALL ⭐⭐⭐
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPI3zI83ha31lPr3qEyJnT3yWKdDh-9y5Ggw&s", Arena Sport 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://185.166.252.230/Arena3/index.m3u8
 
 
-  
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i0.wp.com/tennisthreads.net/wp-content/uploads/2024/02/image_6452243.jpg?fit=768%2C432&ssl=1", SKY SPORTS_TENIS
-http://tv.8dott.xyz:80/live/samuel/samuel123456/356436.ts
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPI3zI83ha31lPr3qEyJnT3yWKdDh-9y5Ggw&s", Arena Sport 4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://185.166.252.230/Arena4/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPI3zI83ha31lPr3qEyJnT3yWKdDh-9y5Ggw&s", Arena Sport 5 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://185.166.252.230/Arena5/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://stmify.com/wp-content/uploads/2025/01/445-s.webp", Arena Sport 6 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://185.166.252.230/Arena6/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgAYLvalB96WdXTNmYErMln6dnIDPokd_l_w&s", Arena Sport 7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://185.166.252.230/Arena7/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.ytimg.com/vi/duo-r-l_OQg/hq720.jpg", Arena Sport 9 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://185.166.252.230/Arena9/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.ytimg.com/vi/mDH-nBhV9Rc/hq720.jpg", Arena Sport 10 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://185.166.252.230/Arena10/index.m3u8
+
+------------------------------------------------------
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.ytimg.com/vi/6Ri-i1e2r_0/maxresdefault.jpg", Max Sport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://185.166.252.230/MaxSport1/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx5tyac2artMkr57EFz5PxjSzWbBGok7NRow&s", Max Sport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://185.166.252.230/MaxSport2/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://media1.hu/wp-content/uploads/2020/01/sport-1-hd.jpg", Sport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://185.166.252.230/Sport1/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://stmify.com/wp-content/uploads/2024/10/195-s.webp", Eurosport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://185.166.252.230/Eurosport1/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://db637ll7r1kva.cloudfront.net/app/uploads/2019/04/03130856/logo-eurosport-2-hd.jpg", Eurosport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://185.166.252.230/Eurosport2/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtyn1nKAGQW9mn_1AuslGXZEXPb6f13bt0IQ&s", Auto Motor Sport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://185.166.252.230/AutoMotorSport/index.m3u8
+
+
+-----------------------------------------
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://foto.sondakika.com/haber/2023/09/12/tivibu-spor-tff-baskani-mehmet-buyukeksi-yi-16320598_amp.jpg", Tivibu Spor 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/t1/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://foto.sondakika.com/haber/2023/09/12/tivibu-spor-tff-baskani-mehmet-buyukeksi-yi-16320598_amp.jpg", Tivibu Spor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/t2/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://foto.sondakika.com/haber/2023/09/12/tivibu-spor-tff-baskani-mehmet-buyukeksi-yi-16320598_amp.jpg", Tivibu Spor 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/t3/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://foto.sondakika.com/haber/2023/09/12/tivibu-spor-tff-baskani-mehmet-buyukeksi-yi-16320598_amp.jpg", Tivibu Spor 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/t4/index.m3u8
+
+------------------------------------------------
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://avatars.mds.yandex.net/i?id=51b234e86d6e2b2cb83fa5b48eb2013072d1326d-7679814-images-thumbs&n=13", Tabii sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/tabi1/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://avatars.mds.yandex.net/i?id=51b234e86d6e2b2cb83fa5b48eb2013072d1326d-7679814-images-thumbs&n=13", Tabii sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/tabi2/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://avatars.mds.yandex.net/i?id=51b234e86d6e2b2cb83fa5b48eb2013072d1326d-7679814-images-thumbs&n=13", Tabii sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/tabi3/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://avatars.mds.yandex.net/i?id=51b234e86d6e2b2cb83fa5b48eb2013072d1326d-7679814-images-thumbs&n=13", Tabii sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/tabi4/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://avatars.mds.yandex.net/i?id=51b234e86d6e2b2cb83fa5b48eb2013072d1326d-7679814-images-thumbs&n=13", Tabii sport 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/tabi5/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://avatars.mds.yandex.net/i?id=51b234e86d6e2b2cb83fa5b48eb2013072d1326d-7679814-images-thumbs&n=13", Tabii sport 6
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/tabi6/index.m3u8
+
+
+----------------------------------
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.pinimg.com/originals/39/74/70/3974702b32beb52a3b2b3b64de6ece51.png", Diema Sport HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://de.online24.pm/play/51002/0E5BF0B5A9755BD/video.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://i.pinimg.com/736x/63/f9/85/63f985173053067b5eac9b0e13c21575.jpg", Diema Sport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://de.online24.pm/play/51003/0E5BF0B5A9755BD/video.m3u8
+
+
+-------------------------------------
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://media1.hu/wp-content/uploads/2020/01/sport-1-hd.jpg", Sport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://de.online24.pm/play/3714/0E5BF0B5A9755BD/video.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://static.sweet.tv/images/cache/channel_banners/BDCQ4IAM/1861-sport-1-baltic.png", Sport 1 Baltic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://de.online24.pm/play/876/0E5BF0B5A9755BD/video.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://stv.ee/wp-content/uploads/2024/02/e8c3436bb0e3022880cac14b275a1f64e643e85b.png", Sport 2 Baltic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://de.online24.pm/play/6972/0E5BF0B5A9755BD/video.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0q6TC0RVukZvIfR3N3XlCSENMG-RmWRXEE1GE1_MrOrLBTs0AhNR0yNZwI81RwToVJSk&usqp=CAU", Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://de.online24.pm/play/6708/0E5BF0B5A9755BD/video.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://stmify.com/wp-content/uploads/2025/03/519-s.webp", Go3 Sport Open HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://de.online24.pm/play/6712/0E5BF0B5A9755BD/video.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://stmify.com/wp-content/uploads/2025/03/519-s.webp", Go3 Sport 1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://de.online24.pm/play/6709/0E5BF0B5A9755BD/video.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://stmify.com/wp-content/uploads/2025/03/519-s.webp", Go3 Sport 2 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://de.online24.pm/play/6710/0E5BF0B5A9755BD/video.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://stmify.com/wp-content/uploads/2025/03/519-s.webp", Go3 Sport 3 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://de.online24.pm/play/6711/0E5BF0B5A9755BD/video.m3u8
+
+--------------------------------------------
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://falcons.org.au/wp-content/uploads/2023/07/sportsmart-1-768x432.png", Sporsmart1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/smart1/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://falcons.org.au/wp-content/uploads/2023/07/sportsmart-1-768x432.png", Sporsmart2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/smart2/index.m3u8
+
+
+--------------------------------------------
+
+------------------------------
+alkas tv
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 1⭐⭐⭐⭐
 
 
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 1⭐⭐⭐
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 2⭐⭐⭐⭐
 
 
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 2⭐⭐⭐
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 3⭐⭐⭐⭐
 
 
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 3⭐⭐⭐
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 4⭐⭐⭐⭐
 
 
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 4⭐⭐⭐
-
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 5⭐⭐⭐
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/e07af070606335.5ba94e1546767.jpg", ALKASS SPORT 5⭐⭐⭐⭐
 
 
 
@@ -1852,7 +2022,6 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://img-284.media.info/i/bg/1/1150-1447433758.webp" group-title="SPORTS 2 HD", EUROSPORT 2 
 http://ktpremium.online:2095/live/kt1107/110753906/932573.ts
-
 
 
 
@@ -5461,1533 +5630,6 @@ https://stream-node1.rri.co.id/streaming/41/8941/chlima.mp3
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 ⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐
 
-
-#EXTM3U
-#EXTINF:-1,Arena Sport 1 HD
-http://185.166.252.230/Arena1/index.m3u8
-#EXTINF:-1,Arena Sport 2 HD
-http://185.166.252.230/Arena2/index.m3u8
-#EXTINF:-1,Arena Sport 3 HD
-http://185.166.252.230/Arena3/index.m3u8
-#EXTINF:-1,Arena Sport 4 HD
-http://185.166.252.230/Arena4/index.m3u8
-#EXTINF:-1,Arena Sport 5 HD
-http://185.166.252.230/Arena5/index.m3u8
-#EXTINF:-1,Arena Sport 6 HD
-http://185.166.252.230/Arena6/index.m3u8
-#EXTINF:-1,Arena Sport 7 HD
-http://185.166.252.230/Arena7/index.m3u8
-#EXTINF:-1,Arena Sport 9 HD
-http://185.166.252.230/Arena9/index.m3u8
-#EXTINF:-1,Arena Sport 10 HD
-http://185.166.252.230/Arena10/index.m3u8
-#EXTINF:-1,Max Sport 1 HD
-http://185.166.252.230/MaxSport1/index.m3u8
-#EXTINF:-1,Max Sport 2 HD
-http://185.166.252.230/MaxSport2/index.m3u8
-#EXTINF:-1,Sport 1 HD
-http://185.166.252.230/Sport1/index.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://185.166.252.230/Eurosport1/index.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://185.166.252.230/Eurosport2/index.m3u8
-#EXTINF:-1,Auto Motor Sport HD
-http://185.166.252.230/AutoMotorSport/index.m3u8
-#EXTINF:-1,HRT 1 HD
-http://185.166.252.230/Hrt1/index.m3u8
-#EXTINF:-1,HRT 2 HD
-http://185.166.252.230/Hrt2/index.m3u8
-#EXTINF:-1,HRT 3 HD
-http://185.166.252.230/Hrt3/index.m3u8
-#EXTINF:-1,HRT 4 HD
-http://185.166.252.230/Hrt4/index.m3u8
-#EXTINF:-1,HRT int 5 HD
-http://185.166.252.230/Hrt5/index.m3u8
-#EXTINF:-1,RTL HD
-http://185.166.252.230/Rtl/index.m3u8
-#EXTINF:-1,RTL 2 HD
-http://185.166.252.230/Rtl2/index.m3u8
-#EXTINF:-1,ZDF
-http://185.166.252.230/Zdf/index.m3u8
-#EXTINF:-1,SAT 1
-http://185.166.252.230/Sat1/index.m3u8
-#EXTINF:-1,ORF 1
-http://185.166.252.230/Orf1/index.m3u8
-#EXTINF:-1,ORF 2
-http://185.166.252.230/Orf2/index.m3u8
-#EXTINF:-1,Vox HD
-http://185.166.252.230/Vox/index.m3u8
-#EXTINF:-1,HBO 1 HD
-http://185.166.252.230/Hbo1/index.m3u8
-#EXTINF:-1,HBO 2 HD
-http://185.166.252.230/Hbo2/index.m3u8
-#EXTINF:-1,HBO 3 HD
-http://185.166.252.230/Hbo3/index.m3u8
-#EXTINF:-1,Cinemax 1 HD
-http://185.166.252.230/Cinemax1/index.m3u8
-#EXTINF:-1,Cinemax 2 HD
-http://185.166.252.230/Cinemax2/index.m3u8
-#EXTINF:-1,Star Movies HD
-http://185.166.252.230/StarMovies/index.m3u8
-#EXTINF:-1,N1 HD
-http://185.166.252.230/N1/index.m3u8
-#EXTINF:-1,NovaTV HD
-http://185.166.252.230/NovaTV/index.m3u8
-#EXTINF:-1,OTV HD
-http://185.166.252.230/OTV/index.m3u8
-#EXTINF:-1,LoviRibolov HD
-http://185.166.252.230/LoviRibolov/index.m3u8
-#EXTINF:-1,M1Gold
-http://185.166.252.230/M1Gold/index.m3u8
-#EXTINF:-1,FilmBoxPremium HD
-http://185.166.252.230/FilmBoxPremium/index.m3u8
-#EXTINF:-1,Pink Western
-http://185.166.252.230/PinkWestern/index.m3u8
-#EXTINF:-1,Pink Serije
-http://185.166.252.230/PinkSerije/index.m3u8
-#EXTINF:-1,Pink Zabava
-http://185.166.252.230/PinkZabava/index.m3u8
-#EXTINF:-1,Pink Hits
-http://185.166.252.230/PinkHits2/index.m3u8
-#EXTINF:-1,Pink Folk
-http://185.166.252.230/PinkFolk/index.m3u8
-#EXTINF:-1,Pink Folk 2
-http://185.166.252.230/PinkFolk2/index.m3u8
-#EXTINF:-1,Pink Plus Elita
-http://185.166.252.230/PinkPlus/index.m3u8
-#EXTINF:-1,Pink Reality
-http://185.166.252.230/PinkReality/index.m3u8
-#EXTINF:-1,Pink Extra
-http://185.166.252.230/PinkExtra/index.m3u8
-#EXTINF:-1,Pink Pedia
-http://185.166.252.230/PinkPedia/index.m3u8
-#EXTINF:-1,Pink Music
-http://185.166.252.230/PinkMusic/index.m3u8
-#EXTINF:-1,Pink Music 2
-http://185.166.252.230/PinkMusic2/index.m3u8
-#EXTINF:-1,Pink Koncert
-http://185.166.252.230/PinkKoncert/index.m3u8
-#EXTINF:-1,Pink Pedia
-http://185.166.252.230/PinkPedia/index.m3u8
-#EXTINF:-1,Pink Film
-http://185.166.252.230/PinkFilm/index.m3u8
-#EXTINF:-1,Pink Action
-http://185.166.252.230/PinkAction/index.m3u8
-#EXTINF:-1,Pink Comedy
-http://185.166.252.230/PinkComedy/index.m3u8
-#EXTINF:-1,Pink Horor
-http://185.166.252.230/PinkHoror/index.m3u8
-#EXTINF:-1,Pink Movies
-http://185.166.252.230/PinkMovies/index.m3u8
-#EXTINF:-1,Pink Premium HD
-http://185.166.252.230/PinkPremium/index.m3u8
-#EXTINF:-1,Pink Thriller
-http://185.166.252.230/PinkThriller/index.m3u8
-#EXTINF:-1,Pink Soap
-http://185.166.252.230/PinkSoap/index.m3u8
-#EXTINF:-1,Pink 1 HD
-http://185.166.252.230/Pink1/index.m3u8
-#EXTINF:-1,Pink 3 HD
-http://185.166.252.230/Pink3/index.m3u8
-#EXTINF:-1,History HD
-http://185.166.252.230/History/index.m3u8
-#EXTINF:-1,History2 HD
-http://185.166.252.230/History2/index.m3u8
-#EXTINF:-1,BBCEarth HD
-http://185.166.252.230/BBCEarth/index.m3u8
-#EXTINF:-1,NatGeo HD
-http://185.166.252.230/NatGeo/index.m3u8
-#EXTINF:-1,NatGeoWild HD
-http://185.166.252.230/NatGeoWild/index.m3u8
-#EXTINF:-1,Discovery HD
-http://185.166.252.230/Discovery/index.m3u8
-#EXTINF:-1,AnimalPlanet HD
-http://185.166.252.230/AnimalPlanet/index.m3u8
-#EXTINF:-1,ViasatHistory HD
-http://185.166.252.230/ViasatHistory/index.m3u8
-#EXTINF:-1,ViasatExplorer HD
-http://185.166.252.230/ViasatExplorer/index.m3u8
-#EXTINF:-1,HGTV HD
-http://185.166.252.230/HGTV/index.m3u8
-#EXTINF:-1,ViasatNature HD
-http://185.166.252.230/ViasatNature/index.m3u8
-#EXTINF:-1,Dmax HD
-http://185.166.252.230/Dmax/index.m3u8
-#EXTINF:-1,TLC HD
-http://185.166.252.230/TLC/index.m3u8
-#EXTINF:-1,Z1 HD
-http://185.166.252.230/Z1/index.m3u8
-#EXTINF:-1,OBN HD
-http://185.166.252.230/OBN/index.m3u8
-#EXTINF:-1,FTV HD
-http://185.166.252.230/FTV/index.m3u8
-#EXTINF:-1,CMC TV
-http://185.166.252.230/Cmc/index.m3u8
-#EXTINF:-1,MTV80 HD
-http://185.166.252.230/MTV80/index.m3u8
-#EXTINF:-1,MTVHits HD
-http://185.166.252.230/MTVHits/index.m3u8
-#EXTINF:-1,Jugoton
-http://185.166.252.230/Jugoton/index.m3u8
-#EXTINF:-1,DuckTV HD
-http://185.166.252.230/DuckTV/index.m3u8
-#EXTINF:-1,BabyTV HD
-http://185.166.252.230/BabyTV/index.m3u8
-#EXTINF:-1,Boomerang HD
-http://185.166.252.230/Boomerang/index.m3u8
-#EXTINF:-1,Nickelodeon HD
-http://185.166.252.230/Nickelodeon/index.m3u8
-#EXTINF:-1,Disney HD
-http://185.166.252.230/Disney/index.m3u8
-#EXTINF:-1,DaVinci HD
-http://185.166.252.230/DaVinci/index.m3u8
-#EXTINF:-1,Super One
-http://185.166.252.230/SuperOne/index.m3u8
-#EXTINF:-1,Hustler
-http://185.166.252.230/Hustler/index.m3u
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-#EXTM3U
-#EXTINF:-1,20 MINUTES TV HD
-http://45.90.106.7:8781/play/RqJf7519K3@N5D/index.m3u8
-#EXTINF:-1,7A LIMOGES HD
-http://45.90.106.7:8781/play/SpQ4507J3@9K5G/index.m3u8
-#EXTINF:-1,ALLOCINÉ HD
-http://45.90.106.7:8781/play/QKTv452108L9@BqJ54T/index.m3u8
-#EXTINF:-1,ARTE HD 50@fps
-http://45.90.106.7:8781/play/GQ5219M2@U5P/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 1 HD
-http://45.90.106.7:8781/play/UrQlD452109H3@Fq8T/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 10 HD
-http://45.90.106.7:8781/play/BrcS74521P6@Zg45Q/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 11 HD
-http://45.90.106.7:8781/play/QnTZ59016K8@HqP9V/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 12 HD
-http://45.90.106.7:8781/play/PrGbz54209p2@Qu5D/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 13 HD
-http://45.90.106.7:8781/play/OzVQ98013j5@Eq78B/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 14 HD
-http://45.90.106.7:8781/play/BtQkz652019U3@Fq7T/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 15 HD
-http://45.90.106.7:8781/play/RcQp890135G5@ZlQ4R/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 16 HD
-http://45.90.106.7:8781/play/QgbZ93482E7@Qy8B/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 17 HD
-http://45.90.106.7:8781/play/JcQT85430H9@Zm8Y7V/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 18 HD
-http://45.90.106.7:8781/play/TbQy89821H9@Eq54K/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 19 HD
-http://45.90.106.7:8781/play/RkF65219E8@WmU83C/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 2 HD
-http://45.90.106.7:8781/play/TqKbW12019I3@GqU8v/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 3 HD
-http://45.90.106.7:8781/play/NqIrQ4298T7@NdW45R/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 4 HD
-http://45.90.106.7:8781/play/RkVxQ74520hQ9@Mt7S/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 5 HD
-http://45.90.106.7:8781/play/XqOr74520Y6@QnU8F/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 6 HD
-http://45.90.106.7:8781/play/DwQPt45190J3@Bz8V/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 7 HD
-http://45.90.106.7:8781/play/PrQBq419807I3@ZkQ4C/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 8 HD
-http://45.90.106.7:8781/play/SuE79801Nx6@Qk85U/index.m3u8
-#EXTINF:-1,CANAL+ LIVE 9 HD
-http://45.90.106.7:8781/play/UzxP79800H3@GqM8R/index.m3u8
-#EXTINF:-1,CGTN FRANCE
-http://45.90.106.7:8781/play/PtQ421v5@Rx4M/index.m3u8
-#EXTINF:-1,CINE+ FESTIVAL HD
-http://45.90.106.7:8781/play/KtQbX833207iZ9@Gq4B/index.m3u8
-#EXTINF:-1,CINE+ OCS HD
-http://45.90.106.7:8781/play/QBtsG814201@TLd8V/index.m3u8
-#EXTINF:-1,CNEWS HD @50fps
-http://45.90.106.7:8781/play/RqK5176C2@U8N/index.m3u8
-#EXTINF:-1,COMEDIE+ HD
-http://45.90.106.7:8781/play/QlT4198T5@F6S/index.m3u8
-#EXTINF:-1,COMEDY CENTRAL HD
-http://45.90.106.7:8781/play/YzX7849J2@T6M/index.m3u8
-#EXTINF:-1,CSTAR HD 50@fps
-http://45.90.106.7:8781/play/CqL517O3m@U6G/index.m3u8
-#EXTINF:-1,DISCOVERY HD @50fps
-http://45.90.106.7:8781/play/TdBm8140P6@E4N/index.m3u8
-#EXTINF:-1,DISCOVERY INVESTIGATION HD 50@fps
-http://45.90.106.7:8781/play/UrQ584L3@Ts5M/index.m3u8
-#EXTINF:-1,DISNEY CHANNEL HD 50@fps
-http://45.90.106.7:8781/play/GcQ7491K3@T5C/index.m3u8
-#EXTINF:-1,DISNEY JUINIOR HD
-http://45.90.106.7:8781/play/Tq297P3@Yzn3K/index.m3u8
-#EXTINF:-1,E! ENTERTAINMENT HD
-http://45.90.106.7:8781/play/DQm842P2@E5J/index.m3u8
-#EXTINF:-1,EQUIDIA LIVE HD
-http://45.90.106.7:8781/play/NcQ0849f6@bS6J/index.m3u8
-#EXTINF:-1,EUROSPORT 1 HD - 50@fps
-http://45.90.106.7:8781/play/TbR490Nc3@Pk6M/index.m3u8
-#EXTINF:-1,EUROSPORT 2 HD @50fps
-http://45.90.106.7:8781/play/EwQu8379H5@G3N/index.m3u8
-#EXTINF:-1,FRANCE 2 HD @50fps
-http://45.90.106.7:8781/play/TdWm527L9@Y5F/index.m3u8
-#EXTINF:-1,FRANCE 24 HD
-http://45.90.106.7:8781/play/IySh5176K8@Y2N/index.m3u8
-#EXTINF:-1,FRANCE 3 HD @50fps
-http://45.90.106.7:8781/play/NyEQ218L6@U5B/index.m3u8
-#EXTINF:-1,FRANCE 4 HD @50fps
-http://45.90.106.7:8781/play/GrQm517L3@b8Z/index.m3u8
-#EXTINF:-1,FRANCE 5 HD @50fps
-http://45.90.106.7:8781/play/GzQ5176b2@T6B/index.m3u8
-#EXTINF:-1,FRANCE INFO HD @50fps
-http://45.90.106.7:8781/play/U5H327G6@R5L/index.m3u8
-#EXTINF:-1,GAMEONE +1 HD @50fps
-http://45.90.106.7:8781/play/UtL5N6846k3@Y8G/index.m3u8
-#EXTINF:-1,GENERATION TV HD
-http://45.90.106.7:8781/play/RUt7519P3@PfQ2B/index.m3u8
-#EXTINF:-1,GONG MAX HD
-http://45.90.106.7:8781/play/GqY7168n8@E6A/index.m3u8
-#EXTINF:-1,GONG MAX HD - 2d Freq
-http://45.90.106.7:8781/play/UtqL6520I9@Fq54L/index.m3u8
-#EXTINF:-1,J-ONE HD @50fps
-http://45.90.106.7:8781/play/PeQp951n3@T5B/index.m3u8
-#EXTINF:-1,LA CHAÎNE L'EQUIPE HD
-http://45.90.106.7:8781/play/NyZ429P6@Rq5K/index.m3u8
-#EXTINF:-1,LCP HD @50fps
-http://45.90.106.7:8781/play/UQm428L6@G5b/index.m3u8
-#EXTINF:-1,LMTV SARTHE HD
-http://45.90.106.7:8781/play/NtQ4197P3@H3B/index.m3u8
-#EXTINF:-1,MCM HD
-http://45.90.106.7:8781/play/UeQ517m3@H8G/index.m3u8
-#EXTINF:-1,MCM TOP
-http://45.90.106.7:8781/play/UeQ517K6@G6V/index.m3u8
-#EXTINF:-1,MELODY HD
-http://45.90.106.7:8781/play/TqPn4197H3@R5X/index.m3u8
-#EXTINF:-1,MEZZO LIVE HD
-http://45.90.106.7:8781/play/UtS5173K9@Y8K/index.m3u8
-#EXTINF:-1,MUSEUM HD 50fps
-http://45.90.106.7:8781/play/JuY3@Hq0P7L/index.m3u8
-#EXTINF:-1,MYZEN TV HD
-http://45.90.106.7:8781/play/QmU843O9@Y5G/index.m3u8
-#EXTINF:-1,NATIONAL GEO HD
-http://45.90.106.7:8781/play/ZvQp8048J6@R5C/index.m3u8
-#EXTINF:-1,NATIONAL GEO WILD HD
-http://45.90.106.7:8781/play/ExQk4190G4@T6K/index.m3u8
-#EXTINF:-1,NAUTICAL CHANNEL HD
-http://45.90.106.7:8781/play/BQl419P5@Yz5M/index.m3u8
-#EXTINF:-1,NICKELODEON+1 HD @50fps
-http://45.90.106.7:8781/play/XqY842iI9@H6kM/index.m3u8
-#EXTINF:-1,NRJ HITS HD @50fps
-http://45.90.106.7:8781/play/NrQm5179J2@U5B/index.m3u8
-#EXTINF:-1,PARAMOUNT CHANNEL HD 50fps
-http://45.90.106.7:8781/play/PtBcQ7430K2@TnQ41V/index.m3u8
-#EXTINF:-1,PARAMOUNT DÉCALÉ HD
-http://45.90.106.7:8781/play/TdQK517M3@v8U/index.m3u8
-#EXTINF:-1,PIWI+ HD
-http://45.90.106.7:8781/play/Bzx5186H4@d9T/index.m3u8
-#EXTINF:-1,POLAR+ HD 50@fps
-http://45.90.106.7:8781/play/WkTS839U@T1Z/index.m3u8
-#EXTINF:-1,PUISSANCE TÉLÉVISION HD
-http://45.90.106.7:8781/play/RqNT742019U3@GNt45V/index.m3u8
-#EXTINF:-1,RMC DECOUVERTES HD @50fps
-http://45.90.106.7:8781/play/JpZ4518H6@S5N/index.m3u8
-#EXTINF:-1,RMC STORY HD @50fps
-http://45.90.106.7:8781/play/ItQm517K6@F5B/index.m3u8
-#EXTINF:-1,RTL9 HD @50fps
-http://45.90.106.7:8781/play/WPs28G2@Zn2U/index.m3u8
-#EXTINF:-1,SEASON HD
-http://45.90.106.7:8781/play/VpT8254i3@H5S/index.m3u8
-#EXTINF:-1,T18 HD
-http://45.90.106.7:8781/play/HU6294K3@E5V/index.m3u8
-#EXTINF:-1,TCM CINEMA HD
-http://45.90.106.7:8781/play/UtfQ824P6@U5J/index.m3u8
-#EXTINF:-1,TF1 HD 50@fps
-http://45.90.106.7:8781/play/WkY8429P5@U5M/index.m3u8
-#EXTINF:-1,TF1 SERIES & FILMS HD
-http://45.90.106.7:8781/play/GcA7491K6@U5Q/index.m3u8
-#EXTINF:-1,TFX HD @50fps
-http://45.90.106.7:8781/play/VrQl5173b3@Y8C/index.m3u8
-#EXTINF:-1,TLC HD 50@fps
-http://45.90.106.7:8781/play/WLt5176K4@T2E/index.m3u8
-#EXTINF:-1,TMC HD @50fps
-http://45.90.106.7:8781/play/LrQ5284K6@G5v/index.m3u8
-#EXTINF:-1,TRACE LATINA HD @50fps
-http://45.90.106.7:8781/play/TsKp517M3@U6N/index.m3u8
-#EXTINF:-1,TV 78
-http://45.90.106.7:8781/play/RvZ4972G5@Y5M/index.m3u8
-#EXTINF:-1,TV5 MONDE HD
-http://45.90.106.7:8781/play/PqJ537m0@X6E/index.m3u8
-#EXTINF:-1,TÉLÉSUD HD
-http://45.90.106.7:8781/play/Czm7519i6@n5K/index.m3u8
-#EXTINF:-1,TÉLÉTOON +1 HD
-http://45.90.106.7:8781/play/TnZ4109Y5@m6R/index.m3u8
-#EXTINF:-1,TÉLÉTOON HD
-http://45.90.106.7:8781/play/TQm5176P2@U9P/index.m3u8
-#EXTINF:-1,USHUAIA HD @50fps
-http://45.90.106.7:8781/play/JrQ5176M3@J8F/index.m3u8
-#EXTINF:-1,WARNER TV HD
-http://45.90.106.7:8781/play/TcQ56972x@D3N/index.m3u8
-#EXTINF:-1,WARNER TV NEXT HD
-http://45.90.106.7:8781/play/BzW576P6@Ye6K/index.m3u8
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:-1 tvg-id="65ad908ad1eaca54984564e90aa54a14" tvg-chno="1",CZ: ONEPLAY1 T3
-http://185.112.249.46:9981/stream/channelid/177253733?profile=pass
-#EXTINF:-1 tvg-id="67d14f66fce0256c46b842802204a5e3" tvg-chno="2",CZ: ONEPLAY2 T2
-http://185.112.249.46:9981/stream/channelid/1716506983?profile=pass
-#EXTINF:-1 tvg-id="fb1c3cdfdd05ed24d8a459fe46a62a10" tvg-chno="3",CZ: ONEPLAY3 T3
-http://185.112.249.46:9981/stream/channelid/1597775099?profile=pass
-#EXTINF:-1 tvg-id="be33d52a2037d5a1afc981819e605de3" tvg-chno="4",CZ: EUROSPORT11 kolo
-http://185.112.249.46:9981/stream/channelid/718615486?profile=pass
-#EXTINF:-1 tvg-id="82e3fcab219bfeaaff332e60e63801e5" tvg-chno="5",CZ: EUROSPORT22
-http://185.112.249.46:9981/stream/channelid/737993602?profile=pass
-#EXTINF:-1 tvg-id="584e6d781e08d1eb35bf2ad1bd4b220c" tvg-chno="6",CZ: PREMIER SPORT1 T3
-http://185.112.249.46:9981/stream/channelid/2020429400?profile=pass
-#EXTINF:-1 tvg-id="af294e348a70d668c0ac1a9fcd983d18" tvg-chno="7",CZ: PREMIER SPORT2 T2 kolo
-http://185.112.249.46:9981/stream/channelid/877537711?profile=pass
-#EXTINF:-1 tvg-id="4220a473f87bf4f0d160565a805ac543" tvg-chno="8",NOVA SPORT6 kolo
-http://185.112.249.46:9981/stream/channelid/1940136002?profile=pass
-#EXTINF:-1 tvg-id="acc04851a2b485f7ce41ecd72b244a22" tvg-chno="9",CZ: FI V Sport 1 Suomi
-http://185.112.249.46:9981/stream/channelid/1363722412?profile=pass
-#EXTINF:-1 tvg-id="69e43f3f6491c0c559876e7a0f8d1fca" tvg-chno="10",CZ: NO V Sport Vinter
-http://185.112.249.46:9981/stream/channelid/1061151849?profile=pass
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTM3U
-#EXTINF:0,atv
-http://65.108.239.207/atv/index.m3u8
-#EXTINF:0,tv8
-http://65.108.239.207/tv8/index.m3u8
-#EXTINF:0,tv85
-http://65.108.239.207/tv85/index.m3u8
-#EXTINF:0,ssport
-http://65.108.239.207/ss1/index.m3u8
-#EXTINF:0,ssport2
-http://65.108.239.207/ss2/index.m3u8
-#EXTINF:0,smart1
-http://65.108.239.207/smart1/index.m3u8
-#EXTINF:0,smart2
-http://65.108.239.207/smart2/index.m3u8
-#EXTINF:0,eurosport 1
-http://65.108.239.207/euro1/index.m3u8
-#EXTINF:0,eurosport 2
-http://65.108.239.207/euro2/index.m3u8
-#EXTINF:0,fbtv
-http://65.108.239.207/fbtv/index.m3u8
-#EXTINF:0,Tivibu Spor 1
-http://65.108.239.207/t1/index.m3u8
-#EXTINF:0,Tivibu Spor 2
-http://65.108.239.207/t2/index.m3u8
-#EXTINF:0,Tivibu Spor 3
-http://65.108.239.207/t3/index.m3u8
-#EXTINF:0,Tivibu Spor 4
-http://65.108.239.207/t4/index.m3u8
-#EXTINF:0,tabii sport 1
-http://65.108.239.207/tabi1/index.m3u8
-#EXTINF:0,tabii sport 2
-http://65.108.239.207/tabi2/index.m3u8
-#EXTINF:0,tabii sport 3
-http://65.108.239.207/tabi3/index.m3u8
-#EXTINF:0,tabii sport 4
-http://65.108.239.207/tabi4/index.m3u8
-#EXTINF:0,tabii sport 5
-http://65.108.239.207/tabi5/index.m3u8
-#EXTINF:0,tabii sport 6
-http://65.108.239.207/tabi6/index.m3u8
-#EXTINF:0,tarih tv
-http://65.108.239.207/tarihtv/index.m3u8
-#EXTINF:0,bbc
-http://65.108.239.207/bbc/index.m3u8
-#EXTINF:0,viasathistory
-http://65.108.239.207/viasathistory/index.m3u8
-#EXTINF:0,history
-http://65.108.239.207/history/index.m3u8
-#EXTINF:0,lovenature
-http://65.108.239.207/lovenature/index.m3u8
-#EXTINF:0,docubox
-http://65.108.239.207/docubox/index.m3u8
-#EXTINF:0,bsaction1
-http://65.108.239.207/bsaction1/index.m3u8
-#EXTINF:0,bspremier1
-http://65.108.239.207/bspremier1/index.m3u8
-#EXTINF:0,beinofice 3
-http://65.108.239.207/bsfamily/index.m3u8
-#EXTINF:0,bsstars
-http://65.108.239.207/bsstars/index.m3u8
-#EXTINF:0,benseri 1
-http://65.108.239.207/box1/index.m3u8
-#EXTINF:0,benseri 2
-http://65.108.239.207/box2/index.m3u8
-#EXTINF:0,box3
-http://65.108.239.207/box3/index.m3u8
-#EXTINF:0,sinema
-http://65.108.239.207/sinema/index.m3u8
-#EXTINF:0,sinema2
-http://65.108.239.207/sinema2/index.m3u8
-#EXTINF:0,sinemaaksiyon
-http://65.108.239.207/sinemaaksiyon/index.m3u8
-#EXTINF:0,sinemaaksiyon2
-http://65.108.239.207/sinemaaksiyon2/index.m3u8
-#EXTINF:0,sinemaa 1001
-http://65.108.239.207/sinema1001/index.m3u8
-#EXTINF:0,sinemaa 1002
-http://65.108.239.207/sinema1002/index.m3u8
-#EXTINF:0,sinemakomedi
-http://65.108.239.207/sinemakomedi/index.m3u8
-#EXTINF:0,sinemaaile
-http://65.108.239.207/sinemaaile/index.m3u8
-#EXTINF:0,sinemayerli
-http://65.108.239.207/sinemayerli/index.m3u8
-#EXTINF:0,sinemayerli2
-http://65.108.239.207/sinemayerli2/index.m3u8
-#EXTINF:0,cartoonnetwork
-http://65.108.239.207/cartoonnetwork/index.m3u8
-#EXTINF:0,ahaber
-http://65.108.239.207/ahaber/index.m3u8 
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTM3U
-#EXTINF:0 tvg-id="Xbox-sportcast-live4" tvg-name="BOX SportCast Live 4 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live4.png" , BOX SportCast Live 4 HD
-#EXTGRP:Sports
-http://de.online24.pm/play/4227/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live5" tvg-name="BOX SportCast Live 5 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live5.png" , BOX SportCast Live 5 HD
-#EXTGRP:Sports
-http://de.online24.pm/play/4228/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live6" tvg-name="BOX SportCast Live 6 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live6.png" , BOX SportCast Live 6 HD
-#EXTGRP:Sports
-http://de.online24.pm/play/4232/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live7" tvg-name="BOX SportCast Live 7 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live7.png" , BOX SportCast Live 7 HD
-#EXTGRP:Sports
-http://de.online24.pm/play/4233/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live8" tvg-name="BOX SportCast Live 8 HD" tvg-logo="https://ip-tv.dev/images/epg/4234.png?v1743766406" , BOX SportCast Live 8 HD
-#EXTGRP:Sports
-http://de.online24.pm/play/4234/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xbox-sportcast-live9" tvg-name="BOX SportCast Live 9 HD" tvg-logo="https://ip-tv.dev/images/ico/box-sportcast-live9.png" , BOX SportCast Live 9 HD
-#EXTGRP:Sports
-http://de.online24.pm/play/4235/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-name="MMA Junkie" tvg-logo="https://ip-tv.dev/images/ico/MMAJunkie.png" , MMA Junkie
-#EXTGRP:Sports
-http://de.online24.pm/play/5718/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-name="Dubai Sports 2" tvg-logo="https://ip-tv.dev/images/ico/dubaisports2.png" , Dubai Sports 2
-#EXTGRP:Sports
-http://de.online24.pm/play/5406/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-name="Dubai Sports 3" tvg-logo="https://ip-tv.dev/images/ico/dubaisports3.png" , Dubai Sports 3
-#EXTGRP:Sports
-http://de.online24.pm/play/5407/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xdiema-sport-1" tvg-name="Diema Sport HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-1.png" , Diema Sport HD
-#EXTGRP:Sports
-http://de.online24.pm/play/51002/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xdiema-sport-2" tvg-name="Diema Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-2.png" , Diema Sport 2 HD
-#EXTGRP:Sports
-http://de.online24.pm/play/51003/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xdiema-sport-3" tvg-name="Diema Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-3.png" , Diema Sport 3 HD
-#EXTGRP:Sports
-http://de.online24.pm/play/51004/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xdiema-sport-2" tvg-name="Diema Sport 2 4K" tvg-logo="https://ip-tv.dev/images/ico/diema-sport-2.png" , Diema Sport 2 4K
-#EXTGRP:Sports
-http://de.online24.pm/play/51001/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xdiema-sport-3" tvg-name="Diema Sport 3 4K" tvg-logo="https://ip-tv.dev/images/epg/51000.jpg?v1743766303" , Diema Sport 3 4K
-#EXTGRP:Sports
-http://de.online24.pm/play/51000/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xclarity4k-edinoborstva" tvg-name="Clarity4K Единоборства" tvg-logo="https://ip-tv.dev/images/ico/clarity4k-edinoborstva.png" , Clarity4K Единоборства
-#EXTGRP:Sports
-http://de.online24.pm/play/4611/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-name="Abu Dhabi Sports 2 FHD" tvg-logo="https://ip-tv.dev/images/epg/51010.jpg?v1743766350" , Abu Dhabi Sports 2 FHD
-#EXTGRP:Sports
-http://de.online24.pm/play/51010/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xbelarus5" tvg-name="Беларусь 5" tvg-logo="https://ip-tv.dev/epg/icon/belarus5.png" , Belarus 5
-#EXTGRP:Belarus
-http://de.online24.pm/play/1467/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xsport1-lt" tvg-name="Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/sport1-lt.png" tvg-rec="5" timeshift="5", Sport 1 HD
-#EXTGRP:Lithuania
-http://de.online24.pm/play/3714/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xsport1-baltic" tvg-name="Sport 1 Baltic" tvg-logo="https://ip-tv.dev/images/ico/sport1-baltic.png" tvg-rec="5" timeshift="5", Sport 1 Baltic
-#EXTGRP:Lithuania
-http://de.online24.pm/play/876/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xsport2-baltic" tvg-name="Sport 2 Baltic" tvg-logo="https://ip-tv.dev/images/ico/sport2-baltic.png" tvg-rec="5" timeshift="5", Sport 2 Baltic
-#EXTGRP:Lithuania
-http://de.online24.pm/play/6972/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-name="Sport 4" tvg-logo="https://ip-tv.dev/images/ico/sport4-ua.png" , Sport 4
-#EXTGRP:Lithuania
-http://de.online24.pm/play/6708/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xtvplay-sports" tvg-name="Go3 Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports.png" tvg-rec="5" timeshift="5", Go3 Sport 1 HD
-#EXTGRP:Lithuania
-http://de.online24.pm/play/6709/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xtvplay-sports-plus" tvg-name="Go3 Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports-plus.png" tvg-rec="5" timeshift="5", Go3 Sport 2 HD
-#EXTGRP:Lithuania
-http://de.online24.pm/play/6710/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xtv3-sport-3" tvg-name="Go3 Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-3.png" tvg-rec="5" timeshift="5", Go3 Sport 3 HD
-#EXTGRP:Lithuania
-http://de.online24.pm/play/6711/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xtv3-sport-open" tvg-name="Go3 Sport Open HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-open.png" tvg-rec="5" timeshift="5", Go3 Sport Open HD
-#EXTGRP:Lithuania
-http://de.online24.pm/play/6712/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xfilmzone-lv" tvg-name="Filmzone HD" tvg-logo="https://ip-tv.dev/images/ico/filmzone.png" tvg-rec="5" timeshift="5", Filmzone HD
-#EXTGRP:Latvia
-http://de.online24.pm/play/6729/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xtvplay-sports" tvg-name="Go3 Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports.png" tvg-rec="5" timeshift="5", Go3 Sport 1 HD
-#EXTGRP:Latvia
-http://de.online24.pm/play/6718/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xtvplay-sports-plus" tvg-name="Go3 Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports-plus.png" tvg-rec="5" timeshift="5", Go3 Sport 2 HD
-#EXTGRP:Latvia
-http://de.online24.pm/play/6719/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xtv3-sport-3" tvg-name="Go3 Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-3.png" tvg-rec="5" timeshift="5", Go3 Sport 3 HD
-#EXTGRP:Latvia
-http://de.online24.pm/play/6720/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xgo3-sport4" tvg-name="Go3 Sport 4 HD" tvg-logo="https://ip-tv.dev/images/ico/go3-sport4.png" tvg-rec="5" timeshift="5", Go3 Sport 4 HD
-#EXTGRP:Latvia
-http://de.online24.pm/play/6721/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xtv3-sport-open" tvg-name="Go3 Sport Open HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-open.png" tvg-rec="5" timeshift="5", Go3 Sport Open HD
-#EXTGRP:Latvia
-http://de.online24.pm/play/6722/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xbest4sport" tvg-name="Best4Sport HD" tvg-logo="https://ip-tv.dev/images/ico/best4sport.png" tvg-rec="5" timeshift="5", Best4Sport HD
-#EXTGRP:Latvia
-http://de.online24.pm/play/6726/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xbest4sport2" tvg-name="Best4Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/best4sport2.png" tvg-rec="5" timeshift="5", Best4Sport 2 HD
-#EXTGRP:Latvia
-http://de.online24.pm/play/6725/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xtvplay-sports" tvg-name="Go3 Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports.png" tvg-rec="5" timeshift="5", Go3 Sport 1 HD
-#EXTGRP:Estonia
-http://de.online24.pm/play/6713/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xtvplay-sports-plus" tvg-name="Go3 Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/tvplay-sports-plus.png" tvg-rec="5" timeshift="5", Go3 Sport 2 HD
-#EXTGRP:Estonia
-http://de.online24.pm/play/6714/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xtv3-sport-3" tvg-name="Go3 Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/tv3-sport-3.png" tvg-rec="5" timeshift="5", Go3 Sport 3 HD
-#EXTGRP:Estonia
-http://de.online24.pm/play/6715/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xgo3-sport4" tvg-name="Go3 Sport 4 HD" tvg-logo="https://ip-tv.dev/images/ico/go3-sport4.png" tvg-rec="5" timeshift="5", Go3 Sport 4 HD
-#EXTGRP:Estonia
-http://de.online24.pm/play/6716/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xsky-sport-bl1" tvg-name="Sky Sport Bundesliga HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-bl1.png" tvg-rec="5" timeshift="5", Sky Sport Bundesliga HD
-#EXTGRP:Germany
-http://de.online24.pm/play/836/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xsky-sport-aus" tvg-name="Sky Sport Austria HD DE" tvg-logo="https://ip-tv.dev/images/epg/5129.png?v1743758276" tvg-rec="5" timeshift="5", Sky Sport Austria HD DE
-#EXTGRP:Germany
-http://de.online24.pm/play/5129/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xsky-sports-f1" tvg-name="Sky Sports F1 HD" tvg-logo="https://ip-tv.dev/images/epg/9923.png?v1743758303" tvg-rec="5" timeshift="5", Sky Sports F1 HD
-#EXTGRP:Germany
-http://de.online24.pm/play/9923/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X10675" tvg-name="Sky Sport Top Event HD" tvg-logo="https://ip-tv.dev/images/epg/925.png?v1743760891" , Sky Sport Top Event HD
-#EXTGRP:Germany
-http://de.online24.pm/play/925/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xsky-sports-golf" tvg-name="Sky Sport Golf HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sports-golf.png" tvg-rec="5" timeshift="5", Sky Sport Golf HD
-#EXTGRP:Germany
-http://de.online24.pm/play/924/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xsky-sport-hd1" tvg-name="Sky Sport 1 HD DE" tvg-logo="https://ip-tv.dev/images/ico/sky-sport-hd1.png" tvg-rec="5" timeshift="5", Sky Sport 1 HD DE
-#EXTGRP:Germany
-http://de.online24.pm/play/833/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X10785" tvg-name="Sky Sport Mix" tvg-logo="https://ip-tv.dev/images/epg/745.png?v1743758367" , Sky Sport Mix
-#EXTGRP:Germany
-http://de.online24.pm/play/745/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X10634" tvg-name="Sky Sport Tennis HD" tvg-logo="https://ip-tv.dev/images/epg/916.png?v1743758380" tvg-rec="5" timeshift="5", Sky Sport Tennis HD
-#EXTGRP:Germany
-http://de.online24.pm/play/916/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xsky-sport-news" tvg-name="Sky Sports News HD" tvg-logo="https://ip-tv.dev/images/ico/sky-sports-news.png" tvg-rec="5" timeshift="5", Sky Sports News HD
-#EXTGRP:Germany
-http://de.online24.pm/play/832/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X10880" tvg-name="Sky Sport Premier League" tvg-logo="https://ip-tv.dev/images/epg/818.png?v1743758392" tvg-rec="5" timeshift="5", Sky Sport Premier League
-#EXTGRP:Germany
-http://de.online24.pm/play/818/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X76756" tvg-name="ORF SPORT+" tvg-logo="https://ip-tv.dev/images/epg/936.png?v1743760969" tvg-rec="5" timeshift="5", ORF SPORT+
-#EXTGRP:Germany
-http://de.online24.pm/play/936/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X401577" tvg-name="Sport 1 HD" tvg-logo="https://ip-tv.dev/images/epg/976.png?v1743758438" tvg-rec="5" timeshift="5", Sport 1 HD
-#EXTGRP:Germany
-http://de.online24.pm/play/976/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XeSports1.de" tvg-name="ESports 1" tvg-logo="https://ip-tv.dev/images/epg/856.png?v1743758424" tvg-rec="5" timeshift="5", ESports 1
-#EXTGRP:Germany
-http://de.online24.pm/play/856/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XSPORT1+.de" tvg-name="Sport 1+" tvg-logo="https://ip-tv.dev/images/epg/977.png?v1743758448" tvg-rec="5" timeshift="5", Sport 1+
-#EXTGRP:Germany
-http://de.online24.pm/play/977/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X76619" tvg-name="Eurosport 1 HD" tvg-logo="https://ip-tv.dev/images/epg/822.png?v1743758461" tvg-rec="5" timeshift="5", Eurosport 1 HD
-#EXTGRP:Germany
-http://de.online24.pm/play/822/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X76705" tvg-name="Sportdigital EDGE" tvg-logo="https://ip-tv.dev/images/epg/956.png?v1743758515" tvg-rec="5" timeshift="5", Sportdigital EDGE
-#EXTGRP:Germany
-http://de.online24.pm/play/956/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-name="Sportdigital FUSSBALL HD" tvg-logo="https://ip-tv.dev/images/epg/967.png?v1743758479" , Sportdigital FUSSBALL HD
-#EXTGRP:Germany
-http://de.online24.pm/play/967/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X10635" tvg-name="Sky Replay" tvg-logo="https://ip-tv.dev/images/epg/5136.png?v1743758530" tvg-rec="5" timeshift="5", Sky Replay
-#EXTGRP:Germany
-http://de.online24.pm/play/5136/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X10918" tvg-name="Sky Showcase HD" tvg-logo="https://ip-tv.dev/images/epg/831.png?v1743760999" tvg-rec="5" timeshift="5", Sky Showcase HD
-#EXTGRP:Germany
-http://de.online24.pm/play/831/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X991623" tvg-name="One HD" tvg-logo="https://ip-tv.dev/images/ico/one1.png" tvg-rec="5" timeshift="5", One HD
-#EXTGRP:Israel
-http://de.online24.pm/play/1506/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X991784" tvg-name="One 2 HD" tvg-logo="https://ip-tv.dev/images/ico/one1.png" tvg-rec="5" timeshift="5", One 2 HD
-#EXTGRP:Israel
-http://de.online24.pm/play/6915/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XONEDoco.il" tvg-name="ONE DOCO HD" tvg-logo="https://ip-tv.dev/images/ico/7120.png" tvg-rec="5" timeshift="5", ONE DOCO HD
-#EXTGRP:Israel
-http://de.online24.pm/play/1780/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XEdgeSport.il" tvg-name="Edge Sport HD" tvg-logo="https://ip-tv.dev/images/ico/10473.png" tvg-rec="5" timeshift="5", Edge Sport HD
-#EXTGRP:Israel
-http://de.online24.pm/play/1788/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X991787" tvg-name="Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/sport1.png" tvg-rec="5" timeshift="5", Sport 1 HD
-#EXTGRP:Israel
-http://de.online24.pm/play/1522/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X991796" tvg-name="Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/sport2.png" tvg-rec="5" timeshift="5", Sport 2 HD
-#EXTGRP:Israel
-http://de.online24.pm/play/1521/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X991788" tvg-name="Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/sport3.png" tvg-rec="5" timeshift="5", Sport 3 HD
-#EXTGRP:Israel
-http://de.online24.pm/play/1565/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X991783" tvg-name="Sport 4 HD" tvg-logo="https://ip-tv.dev/images/ico/sport4.png" tvg-rec="5" timeshift="5", Sport 4 HD
-#EXTGRP:Israel
-http://de.online24.pm/play/1566/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X991606" tvg-name="Sport 5 HD" tvg-logo="https://ip-tv.dev/images/ico/sport5.png" tvg-rec="5" timeshift="5", Sport 5 HD
-#EXTGRP:Israel
-http://de.online24.pm/play/1507/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X991790" tvg-name="Sport 5 Stars HD" tvg-logo="https://ip-tv.dev/images/ico/sport5stars.png" tvg-rec="5" timeshift="5", Sport 5 Stars HD
-#EXTGRP:Israel
-http://de.online24.pm/play/6916/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X5Gold.il" tvg-name="Sport 5 Gold" tvg-logo="https://ip-tv.dev/images/ico/7056.png" tvg-rec="5" timeshift="5", Sport 5 Gold
-#EXTGRP:Israel
-http://de.online24.pm/play/6923/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X991605" tvg-name="Sport 5 Plus HD" tvg-logo="https://ip-tv.dev/images/ico/sport5plus.png" tvg-rec="5" timeshift="5", Sport 5 Plus HD
-#EXTGRP:Israel
-http://de.online24.pm/play/6924/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X991593" tvg-name="Sport 5 Live HD" tvg-logo="https://ip-tv.dev/images/ico/sport5live.png" tvg-rec="5" timeshift="5", Sport 5 Live HD
-#EXTGRP:Israel
-http://de.online24.pm/play/1531/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xsportklub-pl" tvg-name="Sport Klub PL" tvg-logo="https://ip-tv.dev/images/ico/sportklub-pl.png" , Sport Klub PL
-#EXTGRP:Poland
-http://de.online24.pm/play/1925/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xtvp-sport" tvg-name="TVP Sport HD" tvg-logo="https://ip-tv.dev/images/ico/tvp-sport.png" , TVP Sport HD
-#EXTGRP:Poland
-http://de.online24.pm/play/1910/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xeleven-sports-1" tvg-name="Eleven Sports 1 HD" tvg-logo="https://ip-tv.dev/images/ico/eleven-sports-1.png" , Eleven Sports 1 HD
-#EXTGRP:Poland
-http://de.online24.pm/play/1904/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xeleven-sports-2" tvg-name="Eleven Sports 2 HD" tvg-logo="https://ip-tv.dev/images/ico/eleven-sports-2.png" , Eleven Sports 2 HD
-#EXTGRP:Poland
-http://de.online24.pm/play/1903/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xeleven-sports-3" tvg-name="Eleven Sports 3 HD" tvg-logo="https://ip-tv.dev/images/ico/eleven-sports-3.png" , Eleven Sports 3 HD
-#EXTGRP:Poland
-http://de.online24.pm/play/5445/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xeleven-sports-4 " tvg-name="Eleven Sports 4 HD" tvg-logo="https://ip-tv.dev/images/ico/eleven-sports-4 .png" , Eleven Sports 4 HD
-#EXTGRP:Poland
-http://de.online24.pm/play/5446/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xeurosport1-pl" tvg-name="Eurosport 1 HD PL" tvg-logo="https://ip-tv.dev/images/ico/eurosport1pl.png" , Eurosport 1 HD PL
-#EXTGRP:Poland
-http://de.online24.pm/play/5453/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xeurosport2-pl" tvg-name="Eurosport 2 HD PL" tvg-logo="https://ip-tv.dev/images/ico/eurosport2pl.png" , Eurosport 2 HD PL
-#EXTGRP:Poland
-http://de.online24.pm/play/5454/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XGolf.Channel.HD.pl" tvg-name="Golf Channel", Golf Channel
-#EXTGRP:Poland
-http://de.online24.pm/play/5614/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xfightbox-hd" tvg-name="FightBox HD" tvg-logo="https://ip-tv.dev/images/ico/fightbox-hd.png" , FightBox HD
-#EXTGRP:Poland
-http://de.online24.pm/play/5467/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xmotowizja-pl" tvg-name="Motowizija" tvg-logo="https://ip-tv.dev/images/ico/Motowizija.png" , Motowizija
-#EXTGRP:Poland
-http://de.online24.pm/play/5468/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xextreme-sports" tvg-name="Extreme Sport" tvg-logo="https://ip-tv.dev/images/ico/extreme-sports.png" , Extreme Sport
-#EXTGRP:Poland
-http://de.online24.pm/play/5469/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xpolsat-sport" tvg-name="Polsat Sport" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport.png" , Polsat Sport
-#EXTGRP:Poland
-http://de.online24.pm/play/5456/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xpolsat-sport-extra" tvg-name="Polsat Sport 2", Polsat Sport 2
-#EXTGRP:Poland
-http://de.online24.pm/play/5452/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xpolsat-sport-extra" tvg-name="Polsat Sport 3" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-extra.png" , Polsat Sport 3
-#EXTGRP:Poland
-http://de.online24.pm/play/5457/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xpolsat-sport-pr1" tvg-name="Polsat Sport Premium 1 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr1.png" , Polsat Sport Premium 1 HD
-#EXTGRP:Poland
-http://de.online24.pm/play/5447/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xpolsat-sport-pr2" tvg-name="Polsat Sport Premium 2 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr2.png" , Polsat Sport Premium 2 HD
-#EXTGRP:Poland
-http://de.online24.pm/play/5448/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xpolsat-sport-pr3" tvg-name="Polsat Sport Premium 3 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr3.png" , Polsat Sport Premium 3 HD
-#EXTGRP:Poland
-http://de.online24.pm/play/5449/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xpolsat-sport-pr4" tvg-name="Polsat Sport Premium 4 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr4.png" , Polsat Sport Premium 4 HD
-#EXTGRP:Poland
-http://de.online24.pm/play/5450/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xpolsat-sport-pr5" tvg-name="Polsat Sport Premium 5 HD" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-pr5.png" , Polsat Sport Premium 5 HD
-#EXTGRP:Poland
-http://de.online24.pm/play/5451/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xpolsat-sport-fight" tvg-name="Polsat Sport Fight" tvg-logo="https://ip-tv.dev/images/ico/polsat-sport-fight.png" , Polsat Sport Fight
-#EXTGRP:Poland
-http://de.online24.pm/play/5458/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XSilk1" tvg-name="Silk Sport 1" tvg-logo="https://ip-tv.dev/images/ico/silksport1.jpg" tvg-rec="5" timeshift="5", Silk Sport 1
-#EXTGRP:Georgia
-http://de.online24.pm/play/418/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XSilk2" tvg-name="Silk Sport 2" tvg-logo="https://ip-tv.dev/images/ico/silksport2.jpg" tvg-rec="5" timeshift="5", Silk Sport 2
-#EXTGRP:Georgia
-http://de.online24.pm/play/1491/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XSilk3" tvg-name="Silk Sport 3" tvg-logo="https://ip-tv.dev/images/ico/silksport3.jpg" tvg-rec="5" timeshift="5", Silk Sport 3
-#EXTGRP:Georgia
-http://de.online24.pm/play/1492/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XSetanta Sports 1" tvg-name="Setanta Sports 1" tvg-logo="https://ip-tv.dev/images/ico/setanta1.png" tvg-rec="5" timeshift="5", Setanta Sports 1
-#EXTGRP:Georgia
-http://de.online24.pm/play/1493/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XSetanta Sports 2" tvg-name="Setanta Sports 2" tvg-logo="https://ip-tv.dev/images/ico/setanta2.png" tvg-rec="5" timeshift="5", Setanta Sports 2
-#EXTGRP:Georgia
-http://de.online24.pm/play/1494/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XSetanta Sports 3" tvg-name="Setanta Sports 3" tvg-logo="https://ip-tv.dev/images/ico/setanta3.png" tvg-rec="5" timeshift="5", Setanta Sports 3
-#EXTGRP:Georgia
-http://de.online24.pm/play/1495/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X1TV Sport" tvg-name="1TV Sport" tvg-logo="https://ip-tv.dev/images/ico/1tvsport.png" tvg-rec="5" timeshift="5", 1TV Sport
-#EXTGRP:Georgia
-http://de.online24.pm/play/486/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XRugby_TV" tvg-name="Rugby TV" tvg-logo="https://ip-tv.dev/images/ico/rugbytv.png" tvg-rec="5" timeshift="5", Rugby TV
-#EXTGRP:Georgia
-http://de.online24.pm/play/483/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XO2" tvg-name="O2" tvg-logo="https://ip-tv.dev/images/ico/o2.png" tvg-rec="5" timeshift="5", O2
-#EXTGRP:Georgia
-http://de.online24.pm/play/463/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XBNT.4.bg" tvg-name="БНТ3" tvg-logo="https://ip-tv.dev/images/ico/bnt3.png" , БНТ3
-#EXTGRP:Bulgaria
-http://de.online24.pm/play/6825/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XNova.Sport.bg" tvg-name="Nova Sport" tvg-logo="https://ip-tv.dev/images/ico/novasport.png" , Nova Sport
-#EXTGRP:Bulgaria
-http://de.online24.pm/play/6827/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XRing.BG.bg" tvg-name="Ring" tvg-logo="https://ip-tv.dev/images/ico/ring.png" , Ring
-#EXTGRP:Bulgaria
-http://de.online24.pm/play/6828/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XDIEMA.SPORT.bg" tvg-name="Diema Sport" tvg-logo="https://ip-tv.dev/images/ico/diema.png" , Diema Sport
-#EXTGRP:Bulgaria
-http://de.online24.pm/play/6830/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XDIEMA.SPORT.2.bg" tvg-name="Diema Sport 2" tvg-logo="https://ip-tv.dev/images/ico/diema2.png" , Diema Sport 2
-#EXTGRP:Bulgaria
-http://de.online24.pm/play/6831/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XDIEMA.SPORT.2.bg" tvg-name="Diema Sport 2 4K" tvg-logo="https://ip-tv.dev/images/ico/diema2.png" , Diema Sport 2 4K
-#EXTGRP:Bulgaria
-http://de.online24.pm/play/1652/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XDIEMA.SPORT.3.bg" tvg-name="Diema Sport 3" tvg-logo="https://ip-tv.dev/images/ico/diema3.png" , Diema Sport 3
-#EXTGRP:Bulgaria
-http://de.online24.pm/play/6832/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XMax.Sport.1.bg" tvg-name="Max Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/max1.png" , Max Sport 1 HD
-#EXTGRP:Bulgaria
-http://de.online24.pm/play/6875/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XMax.Sport.2.bg" tvg-name="Max Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/max2.png" , Max Sport 2 HD
-#EXTGRP:Bulgaria
-http://de.online24.pm/play/6876/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XMax.Sport.3.bg" tvg-name="Max Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/max3.png" , Max Sport 3 HD
-#EXTGRP:Bulgaria
-http://de.online24.pm/play/6877/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XMax.Sport.4.bg" tvg-name="Max Sport 4 HD" tvg-logo="https://ip-tv.dev/images/ico/max4.png" , Max Sport 4 HD
-#EXTGRP:Bulgaria
-http://de.online24.pm/play/6878/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-name="Setanta Sports HD MD" tvg-logo="https://ip-tv.dev/images/epg/11008.png?v1745673091" , Setanta Sports HD MD
-#EXTGRP:Moldova
-http://de.online24.pm/play/11008/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XDigi.Sport.1.HD.ro" tvg-name="Digi sport 1 HD", Digi sport 1 HD
-#EXTGRP:Romania
-http://de.online24.pm/play/11068/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XDigi.Sport.2.HD.ro" tvg-name="Digi sport 2 HD", Digi sport 2 HD
-#EXTGRP:Romania
-http://de.online24.pm/play/11069/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XDigi.Sport.3.HD.ro" tvg-name="Digi sport 3", Digi sport 3
-#EXTGRP:Romania
-http://de.online24.pm/play/11070/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XDigi.Sport.4.HD.ro" tvg-name="Digi sport 4", Digi sport 4
-#EXTGRP:Romania
-http://de.online24.pm/play/11071/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XDigi.24.HD.ro" tvg-name="Digi24", Digi24
-#EXTGRP:Romania
-http://de.online24.pm/play/11072/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XEurosport.1.HD.ro" tvg-name="Eurosport 2", Eurosport 2
-#EXTGRP:Romania
-http://de.online24.pm/play/11081/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XEurosport.2.HD.ro" tvg-name="Eurosport 2 HD", Eurosport 2 HD
-#EXTGRP:Romania
-http://de.online24.pm/play/11082/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XSport.Extra.ro" tvg-name="Sport Extra HD", Sport Extra HD
-#EXTGRP:Romania
-http://de.online24.pm/play/11158/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XExtreme.Sports.ro" tvg-name="Extreme Sports", Extreme Sports
-#EXTGRP:Romania
-http://de.online24.pm/play/11165/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-name="EPT Sport 1 HD", EPT Sport 1 HD
-#EXTGRP:Greece
-http://de.online24.pm/play/5927/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-name="EPT Sport 2 HD", EPT Sport 2 HD
-#EXTGRP:Greece
-http://de.online24.pm/play/5926/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XAuto.Motor.Sport.TV.hu" tvg-name="Auto Motor Sport HU", Auto Motor Sport HU
-#EXTGRP:Hungary
-http://de.online24.pm/play/796/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XMatch.4.hu" tvg-name="MATCH4 HD HU", MATCH4 HD HU
-#EXTGRP:Hungary
-http://de.online24.pm/play/879/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XEurosport.HD.hu" tvg-name="Eurosport HU", Eurosport HU
-#EXTGRP:Hungary
-http://de.online24.pm/play/882/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XEurosport.2.HD.hu" tvg-name="Eurosport 2 HU", Eurosport 2 HU
-#EXTGRP:Hungary
-http://de.online24.pm/play/883/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xm4sport+.hu" tvg-name="M4 Sport HU", M4 Sport HU
-#EXTGRP:Hungary
-http://de.online24.pm/play/893/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X07ceb1ac6be64075dded2510c27e0c6e" tvg-name="Nova Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/8565.png" , Nova Sport 1 HD
-#EXTGRP:SkyLink
-http://de.online24.pm/play/1123/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X366a88cf3a4bab603ef6408966546e71" tvg-name="Nova Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/8566.png" , Nova Sport 2 HD
-#EXTGRP:SkyLink
-http://de.online24.pm/play/1124/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X4bbd04b8c84805428618645d943fc28d" tvg-name="Nova Sport 3 HD" tvg-logo="https://ip-tv.dev/images/ico/9801.png" , Nova Sport 3 HD
-#EXTGRP:SkyLink
-http://de.online24.pm/play/1125/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X6edcad12e88ffac3da0cacb565970775" tvg-name="Nova Sport 4 HD" tvg-logo="https://ip-tv.dev/images/ico/9802.png" , Nova Sport 4 HD
-#EXTGRP:SkyLink
-http://de.online24.pm/play/1126/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X7845ca0015c718657d785b311edf5079" tvg-name="Nova Sport 5 HD" tvg-logo="https://ip-tv.dev/images/ico/9803.png" , Nova Sport 5 HD
-#EXTGRP:SkyLink
-http://de.online24.pm/play/1127/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X1ee5b7ce8676fe322a8bb63f097f8c9a" tvg-name="Arena Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/7935.png" , Arena Sport 1 HD
-#EXTGRP:SkyLink
-http://de.online24.pm/play/1128/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X29310a006ce41c9fb5cca14f333849fb" tvg-name="Arena Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/7936.png" , Arena Sport 2 HD
-#EXTGRP:SkyLink
-http://de.online24.pm/play/1129/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X5a47413dce1d8829fcbe0bf021e18ae5" tvg-name="AutoMotorSport HD" tvg-logo="https://ip-tv.dev/images/ico/9197.png" , AutoMotorSport HD
-#EXTGRP:SkyLink
-http://de.online24.pm/play/1130/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X18e7a585715561d4bb2606977deb20f6" tvg-name="Sport 1 HD" tvg-logo="https://ip-tv.dev/images/ico/8847.png" , Sport 1 HD
-#EXTGRP:SkyLink
-http://de.online24.pm/play/1131/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X703d414b1e8d7eee864115685ee47e01" tvg-name="Sport 2 HD" tvg-logo="https://ip-tv.dev/images/ico/8847.png" , Sport 2 HD
-#EXTGRP:SkyLink
-http://de.online24.pm/play/1132/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X3981fa886a1704937afd96d87ea46ef1" tvg-name="RTVS SPORT HD" tvg-logo="https://ip-tv.dev/images/ico/9300.png" , RTVS SPORT HD
-#EXTGRP:SkyLink
-http://de.online24.pm/play/1133/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xeacbd3c220de39cfa7c855755d1291cf" tvg-name="JOJ Sport HD" tvg-logo="https://ip-tv.dev/images/ico/8546.png" , JOJ Sport HD
-#EXTGRP:SkyLink
-http://de.online24.pm/play/1134/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="X6fda506ca37562e7c8a37011eecb6995" tvg-name="CANAL+ Sport (CZ)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (CZ)
-#EXTGRP:SkyLink
-http://de.online24.pm/play/1135/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xba551cee37d621f3a459d798ae881e5e" tvg-name="CANAL+ Sport (SK)" tvg-logo="https://ip-tv.dev/images/ico/9305.png" , CANAL+ Sport (SK)
-#EXTGRP:SkyLink
-http://de.online24.pm/play/1136/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xba674f276a1f7dbe4c756d9ea0b50a38" tvg-name="CANAL+ Sport 2 (SK)" tvg-logo="https://ip-tv.dev/images/ico/10110.png" , CANAL+ Sport 2 (SK)
-#EXTGRP:SkyLink
-http://de.online24.pm/play/1137/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xfad8ef045fa357781cfb3163d4b45a09" tvg-name="Golf Channel" tvg-logo="https://ip-tv.dev/images/ico/9204.png" , Golf Channel
-#EXTGRP:SkyLink
-http://de.online24.pm/play/1138/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-name="Play4", Play4
-#EXTGRP:BE & NL
-http://de.online24.pm/play/8004/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-name="Play5", Play5
-#EXTGRP:BE & NL
-http://de.online24.pm/play/8005/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XPlay6.be" tvg-name="Play6", Play6
-#EXTGRP:BE & NL
-http://de.online24.pm/play/8006/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XPlay7.be" tvg-name="Play7", Play7
-#EXTGRP:BE & NL
-http://de.online24.pm/play/8007/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-name="Sport 10", Sport 10
-#EXTGRP:BE & NL
-http://de.online24.pm/play/8008/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-name="DAZN Pro League 1 NL", DAZN Pro League 1 NL
-#EXTGRP:BE & NL
-http://de.online24.pm/play/8000/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XESPN.1.nl" tvg-name="ESPN HD", ESPN HD
-#EXTGRP:BE & NL
-http://de.online24.pm/play/1139/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XESPN.2.nl" tvg-name="ESPN 2 HD", ESPN 2 HD
-#EXTGRP:BE & NL
-http://de.online24.pm/play/1140/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XESPN.4.nl" tvg-name="ESPN 4 HD", ESPN 4 HD
-#EXTGRP:BE & NL
-http://de.online24.pm/play/1141/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XZiggo.Sport.nl" tvg-name="Ziggo Sport", Ziggo Sport
-#EXTGRP:BE & NL
-http://de.online24.pm/play/1142/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XZiggo.Sport.2.nl" tvg-name="Ziggo Sport 2", Ziggo Sport 2
-#EXTGRP:BE & NL
-http://de.online24.pm/play/1143/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="XZiggo.Sport.6.nl" tvg-name="Ziggo Sport 6", Ziggo Sport 6
-#EXTGRP:BE & NL
-http://de.online24.pm/play/1144/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xsport-plus-kz" tvg-name="Sport+ Qazaqstan" tvg-logo="https://ip-tv.dev/images/epg/1844.png?v1744725369" tvg-rec="5" timeshift="5", Sport+ Qazaqstan
-#EXTGRP:Kazakhstan
-http://de.online24.pm/play/1844/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xq-sport-ext" tvg-name="Q Sport League" tvg-logo="https://ip-tv.dev/images/epg/1843.png?v1744725274" tvg-rec="5" timeshift="5", Q Sport League
-#EXTGRP:Kazakhstan
-http://de.online24.pm/play/1843/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xqsport-kz" tvg-name="Q Arena" tvg-logo="https://ip-tv.dev/images/epg/1842.png?v1744725145" tvg-rec="5" timeshift="5", Q Arena
-#EXTGRP:Kazakhstan
-http://de.online24.pm/play/1842/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-id="Xkazsport" tvg-name="QazSport" tvg-logo="https://ip-tv.dev/images/epg/1841.png?v1744725077" tvg-rec="5" timeshift="5", QazSport
-#EXTGRP:Kazakhstan
-http://de.online24.pm/play/1841/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-name="CBC Sport AZ", CBC Sport AZ
-#EXTGRP:Azerbaijan
-http://de.online24.pm/play/434/0E5BF0B5A9755BD/video.m3u8
-#EXTINF:0 tvg-name="Idman AZ", Idman AZ
-#EXTGRP:Azerbaijan
-http://de.online24.pm/play/439/0E5BF0B5A9755BD/video.m3u8
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTM3U
-#EXTINF:-1 group-title="-",5001. BNT 1
-http://85.11.144.6:6060/play/a09e/index.m3u8
-#EXTINF:-1 group-title="-",5002. bTV
-http://85.11.144.6:6060/play/bTV/index.m3u8
-#EXTINF:-1 group-title="-",5003. NOVA
-http://85.11.144.6:6060/play/NOVA/index.m3u8
-#EXTINF:-1 group-title="-",5004. bTV Cinema HD
-http://85.11.144.6:6060/play/bTVCinema/index.m3u8
-#EXTINF:-1 group-title="-",5005. Diema
-http://85.11.144.6:6060/play/Diema/index.m3u8
-#EXTINF:-1 group-title="-",5006. AXN
-http://85.11.144.6:6060/play/AXN/index.m3u8
-#EXTINF:-1 group-title="-",5007. BNT 4 HD
-http://85.11.144.6:6060/play/BNT4HD/index.m3u8
-#EXTINF:-1 group-title="-",5008. bTV Comedy HD
-http://85.11.144.6:6060/play/a01j/index.m3u8
-#EXTINF:-1 group-title="-",5010. MAX Sport 2 HD
-http://85.11.144.6:6060/play/a01i/index.m3u8
-#EXTINF:-1 group-title="-",5011. MAX Sport 4 HD
-http://85.11.144.6:6060/play/a012/index.m3u8
-#EXTINF:-1 group-title="-",5012. Balkanika
-http://85.11.144.6:6060/play/Balkanika/index.m3u8
-#EXTINF:-1 group-title="-",5021. KinoNova
-http://85.11.144.6:6060/play/KinoNova/index.m3u8
-#EXTINF:-1 group-title="-",5022. Bulgaria on Air
-http://85.11.144.6:6060/play/BulgariaonAir/index.m3u8
-#EXTINF:-1 group-title="-",5023. Folklor TV
-http://85.11.144.6:6060/play/a00e/index.m3u8
-#EXTINF:-1 group-title="-",5024. Fen Folk
-http://85.11.144.6:6060/play/a01z/index.m3u8
-#EXTINF:-1 group-title="-",5033. MAX Sport 3 HD
-http://85.11.144.6:6060/play/a09y/index.m3u8
-#EXTINF:-1 group-title="-",5034. MAX Sport 1 HD
-http://85.11.144.6:6060/play/a05l/index.m3u8
-#EXTINF:-1 group-title="-",5036. 24 Kitchen
-http://85.11.144.6:6060/play/24Kitchen/index.m3u8
-#EXTINF:-1 group-title="-",5125. Boomerang
-http://85.11.144.6:6060/play/a00t/index.m3u8
-#EXTINF:-1 group-title="-",7/8 TV
-http://85.11.144.6:6060/play/a09x/index.m3u8
-#EXTINF:-1 group-title="-",BNT 2
-http://85.11.144.6:6060/play/BNT2/index.m3u8
-#EXTINF:-1 group-title="-",BNT 4
-http://85.11.144.6:6060/play/BNT4/index.m3u8
-#EXTINF:-1 group-title="-",BNT 4 HD
-http://85.11.144.6:6060/play/a09n/index.m3u8
-#EXTINF:-1 group-title="-",Baby TV
-http://85.11.144.6:6060/play/a08s/index.m3u8
-#EXTINF:-1 group-title="-",Balkanika
-http://85.11.144.6:6060/play/a09r/index.m3u8
-#EXTINF:-1 group-title="-",Bloomberg BG
-http://85.11.144.6:6060/play/BloombergBG/index.m3u8
-#EXTINF:-1 group-title="-",Bloomberg TV HD
-http://85.11.144.6:6060/play/a05m/index.m3u8
-#EXTINF:-1 group-title="-",CNBC Europe HD
-http://85.11.144.6:6060/play/a01l/index.m3u8
-#EXTINF:-1 group-title="-",CNN Int 
-http://85.11.144.6:6060/play/a00k/index.m3u8
-#EXTINF:-1 group-title="-",Cartoon Network
-http://85.11.144.6:6060/play/CartoonNetwork/index.m3u8
-#EXTINF:-1 group-title="-",Code Fashion HD
-http://85.11.144.6:6060/play/a05k/index.m3u8
-#EXTINF:-1 group-title="-",Current Time
-http://85.11.144.6:6060/play/a00y/index.m3u8
-#EXTINF:-1 group-title="-",DSTV
-http://85.11.144.6:6060/play/a00l/index.m3u8
-#EXTINF:-1 group-title="-",DW
-http://85.11.144.6:6060/play/a07z/index.m3u8
-#EXTINF:-1 group-title="-",Da Vinci
-http://85.11.144.6:6060/play/a00d/index.m3u8
-#EXTINF:-1 group-title="-",Dom Kino Premium
-http://85.11.144.6:6060/play/a07v/index.m3u8
-#EXTINF:-1 group-title="-",Euronews Bulgaria
-http://85.11.144.6:6060/play/a092/index.m3u8
-#EXTINF:-1 group-title="-",Euronews Bulgaria
-http://85.11.144.6:6060/play/a00s/index.m3u8
-#EXTINF:-1 group-title="-",Evrokom HD
-http://85.11.144.6:6060/play/a01p/index.m3u8
-#EXTINF:-1 group-title="-",Fashion TV
-http://85.11.144.6:6060/play/a08m/index.m3u8
-#EXTINF:-1 group-title="-",Fen Folk TV
-http://85.11.144.6:6060/play/FenFolk/index.m3u8
-#EXTINF:-1 group-title="-",Fen TV
-http://85.11.144.6:6060/play/a08y/index.m3u8
-#EXTINF:-1 group-title="-",FilmBox
-http://85.11.144.6:6060/play/a01t/index.m3u8
-#EXTINF:-1 group-title="-",France 24 eng
-http://85.11.144.6:6060/play/a00f/index.m3u8
-#EXTINF:-1 group-title="-",Hit Mix HD
-http://85.11.144.6:6060/play/a05j/index.m3u8
-#EXTINF:-1 group-title="-",ID
-http://85.11.144.6:6060/play/a07h/index.m3u8
-#EXTINF:-1 group-title="-",MTV
-http://85.11.144.6:6060/play/a08w/index.m3u8
-#EXTINF:-1 group-title="-",MTV 00s
-http://85.11.144.6:6060/play/a07g/index.m3u8
-#EXTINF:-1 group-title="-",MTV 90s
-http://85.11.144.6:6060/play/a09o/index.m3u8
-#EXTINF:-1 group-title="-",Motorvision
-http://85.11.144.6:6060/play/a00n/index.m3u8
-#EXTINF:-1 group-title="-",MovieSTAR
-http://85.11.144.6:6060/play/a08z/index.m3u8
-#EXTINF:-1 group-title="-",Nickelodeon
-http://85.11.144.6:6060/play/a07q/index.m3u8
-#EXTINF:-1 group-title="-",Nostalgia
-http://85.11.144.6:6060/play/a08o/index.m3u8
-#EXTINF:-1 group-title="-",Nova News
-http://85.11.144.6:6060/play/NovaNews/index.m3u8
-#EXTINF:-1 group-title="-",Nova Sport
-http://85.11.144.6:6060/play/a09g/index.m3u8
-#EXTINF:-1 group-title="-",Planeta Folk
-http://85.11.144.6:6060/play/PlanetaFolkHD/index.m3u8
-#EXTINF:-1 group-title="-",Planeta Folk
-http://85.11.144.6:6060/play/a09k/index.m3u8
-#EXTINF:-1 group-title="-",RING HD
-http://85.11.144.6:6060/play/a01m/index.m3u8
-#EXTINF:-1 group-title="-",Ribalka i Ohota
-http://85.11.144.6:6060/play/a08q/index.m3u8
-#EXTINF:-1 group-title="-",Rodina TV
-http://85.11.144.6:6060/play/a098/index.m3u8
-#EXTINF:-1 group-title="-",TLC
-http://85.11.144.6:6060/play/a08b/index.m3u8
-#EXTINF:-1 group-title="-",TV 1000
-http://85.11.144.6:6060/play/a09s/index.m3u8
-#EXTINF:-1 group-title="-",TV Rodina HD
-http://85.11.144.6:6060/play/a015/index.m3u8
-#EXTINF:-1 group-title="-",TV5 Monde
-http://85.11.144.6:6060/play/a00w/index.m3u8
-#EXTINF:-1 group-title="-",TVT
-http://85.11.144.6:6060/play/a00p/index.m3u8
-#EXTINF:-1 group-title="-",The Voice
-http://85.11.144.6:6060/play/a094/index.m3u8
-#EXTINF:-1 group-title="-",The World
-http://85.11.144.6:6060/play/a00q/index.m3u8
-#EXTINF:-1 group-title="-",Travel TV
-http://85.11.144.6:6060/play/a01s/index.m3u8
-#EXTINF:-1 group-title="-",VTK
-http://85.11.144.6:6060/play/a022/index.m3u8
-#EXTINF:-1 group-title="-",bTV Comedy
-http://85.11.144.6:6060/play/bTVComesy/index.m3u8
-#EXTINF:-1 group-title="-",bTV Lady HD
-http://85.11.144.6:6060/play/a01k/index.m3u8
-#EXTINF:-1 group-title="-",bTV Story
-http://85.11.144.6:6060/play/bTVStory/index.m3u8
-#EXTINF:-1 group-title="-",bTV Story HD
-http://85.11.144.6:6060/play/a09j/index.m3u8
-#EXTINF:-1 group-title="-",Фолклор ТВ
-http://85.11.144.6:6060/play/a09l/index.m3u8
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTM3U
-#EXTINF:11,ALSAT M
-#EXTVLCOPT:network-caching=1000
-http://185.248.173.79:1525/play/alsa/index.m3u8
-#EXTINF:0,Arta
-#EXTVLCOPT:network-caching=1000
-http://185.248.173.79:1525/play/arta/index.m3u8
-#EXTINF:0,First Ch
-#EXTVLCOPT:network-caching=1000
-http://185.248.173.79:1525/play/fira/index.m3u8
-#EXTINF:0,KTV
-#EXTVLCOPT:network-caching=1000
-http://185.248.173.79:1525/play/ktv/index.m3u8
-#EXTINF:0,Kanal 10
-#EXTVLCOPT:network-caching=1000
-http://185.248.173.79:1525/play/k10a/index.m3u8
-#EXTINF:0,N1 BH
-#EXTVLCOPT:network-caching=1000
-http://185.248.173.79:1525/play/a005/index.m3u8
-#EXTINF:0,RTV 21
-#EXTVLCOPT:network-caching=1000
-http://185.248.173.79:1525/play/rtv21a/index.m3u8
-#EXTINF:0,RTV21 macedoni
-#EXTVLCOPT:network-caching=1000
-http://185.248.173.79:1525/play/rtvkm/index.m3u8
-#EXTINF:0,T 7
-#EXTVLCOPT:network-caching=1000
-http://185.248.173.79:1525/play/t7aa/index.m3u8
-#EXTINF:0,Tring Action
-#EXTVLCOPT:network-caching=1000
-http://185.248.173.79:1525/play/tacta/index.m3u8
-#EXTINF:0,Tring Series
-#EXTVLCOPT:network-caching=1000
-http://185.248.173.79:1525/play/a00c/index.m3u8
-#EXTINF:0,Tring fantazi
-#EXTVLCOPT:network-caching=1000
-http://185.248.173.79:1525/play/fana/index.m3u8
-#EXTINF:0,Tring shqip
-#EXTVLCOPT:network-caching=1000
-http://185.248.173.79:1525/play/trsh/index.m3u8
-#EXTINF:0,Tring super
-#EXTVLCOPT:network-caching=1000
-http://185.248.173.79:1525/play/tsupa/index.m3u8
-#EXTINF:0,teve 1
-#EXTVLCOPT:network-caching=1000
-http://185.248.173.79:1525/play/teva/index.m3u8
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTM3U
-#EXTINF:-1,cinemax HD
-http://185.98.211.8:81/cinemax/index.m3u8?token=test
-#EXTINF:-1,fightbox
-http://185.98.211.8:81/fightbox/index.m3u8?token=test
-#EXTINF:-1,film_plus
-http://185.98.211.8:81/film_plus/index.m3u8?token=test
-#EXTINF:-1,history HD
-http://185.98.211.8:81/history/index.m3u8?token=test
-#EXTINF:-1,sport2
-http://185.98.211.8:81/sport2/index.m3u8?token=test
-#EXTINF:-1,viasat_history HD
-http://185.98.211.8:81/viasat_history/index.m3u8?token=test
-#EXTINF:-1,viasat_nature HD
-http://185.98.211.8:81/viasat_nature/index.m3u8?token=test
-#EXTINF:-1,hbo2 HD
-http://185.98.211.8:81/hbo2/index.m3u8?token=test
-#EXTINF:-1,fightbox
-http://185.98.211.8:81/fightbox/index.m3u8?token=test
-#EXTINF:-1,viasat_history HD
-http://185.98.211.8:81/viasat_history/index.m3u8?token=test
-#EXTINF:-1,viasat_explore
-http://185.98.211.8:81/viasat_explore/index.m3u8?token=test
-#EXTINF:-1,cinemax HD
-http://185.98.211.8:81/cinemax/index.m3u8?token=test
-#EXTINF:-1,hbo3 HD
-http://185.98.211.8:81/hbo3/index.m3u8?token=test
-#EXTINF:-1,spektrum HD
-http://185.98.211.8:81/spektrum/index.m3u8?token=test
-#EXTINF:-1,history HD
-http://185.98.211.8:81/history/index.m3u8?token=test
-#EXTINF:-1,sport2
-http://185.98.211.8:81/sport2/index.m3u8?token=test
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTM3U
-#EXTINF:-1,bein1
-https://ww.dooballfree.vip/live/bein1/playlist.m3u8
-#EXTINF:-1,bein2 HD
-https://ww.dooballfree.vip/live/bein2/playlist.m3u8
-#EXTINF:-1,bein3
-https://ww.dooballfree.vip/live/bein3/playlist.m3u8
-#EXTINF:-1,sporttv 2
-https://ww.dooballfree.vip/live/sporttv2/playlist.m3u8
-#EXTINF:-1,sporttv 3
-https://ww.dooballfree.vip/live/sporttv3/playlist.m3u8
-#EXTINF:-1,eurosport 1 es
-https://ww.dooballfree.vip/live/eurosport1es/playlist.m3u8
-#EXTINF:-1,eurosport 2 es
-https://ww.dooballfree.vip/live/eurosport2es/playlist.m3u8
-#EXTINF:-1,nba tv
-https://ww.dooballfree.vip/live/nba/playlist.m3u8
-#EXTINF:-1,Trace_Sport Star HD
-https://vod.splay.uz/live_splay/original/Trace_Sport_Stars/index.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://vod.splay.uz/live_splay/original/Eurosport/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://vod.splay.uz/live_splay/original/Eurosport2HD/tracks-v1a1/mono.m3u8 
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:0,500. SKY SPORTS FOOTBALL
-http://178.33.239.54:8080/500a/index.m3u8
-#EXTINF:0,501. SKY SPORTS NEWS
-http://178.33.239.54:8080/501a/index.m3u8
-#EXTINF:0,502. SKY SPORT MAIN EVENT
-http://178.33.239.54:8080/502a/index.m3u8
-#EXTINF:0,503. SKY SPORT CRICKET
-http://178.33.239.54:8080/503a/index.m3u8
-#EXTINF:0,504. SKY SPORT ACTION
-http://178.33.239.54:8080/504a/index.m3u8
-#EXTINF:0,506. SKY SPORT PREMIER LEAGUE
-http://178.33.239.54:8080/506a/index.m3u8
-#EXTINF:0,507. SKY SPORTS MIX HD
-http://178.33.239.54:8080/507a/index.m3u8
-#EXTINF:0,508. Sky SPORTS F1
-http://178.33.239.54:8080/508a/index.m3u8
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTM3U
-#EXTINF:-1,France 2 HD
-http://151.80.18.177:86/France_2_HD/index.m3u8
-#EXTINF:-1,France 3 HD
-http://151.80.18.177:86/France_3_HD/index.m3u8
-#EXTINF:-1,France 4 HD
-http://151.80.18.177:86/France_4_HD/index.m3u8
-#EXTINF:-1,France 5 HD
-http://151.80.18.177:86/France_5_HD/index.m3u8
-#EXTINF:-1,Canal+ HD
-http://151.80.18.177:86/Canal+_HD/index.m3u8
-#EXTINF:-1,Canal+ Cinema HD
-http://151.80.18.177:86/Canal+_cinema_HD/index.m3u8
-#EXTINF:-1,Comedie+ HD
-http://151.80.18.177:86/Comedie+_HD/index.m3u8
-#EXTINF:-1,ARTE HD
-http://151.80.18.177:86/ARTE_HD/index.m3u8
-#EXTINF:-1,Paris Premiere HD
-http://151.80.18.177:86/Paris_Premiere_HD/index.m3u8
-#EXTINF:-1,AB1 HD
-http://151.80.18.177:86/AB1/index.m3u8
-#EXTINF:-1,RTL 9 HD
-http://151.80.18.177:86/RTL9/index.m3u8
-#EXTINF:-1,TF1 HD
-http://151.80.18.177:86/TF1_HD/index.m3u8
-#EXTINF:-1,Teva HD
-http://151.80.18.177:86/Teva_HD/index.m3u8
-#EXTINF:-1,National Geo HD
-http://151.80.18.177:86/National_Geo_HD/index.m3u8
-#EXTINF:-1,Histoire HD
-http://151.80.18.177:86/Histoire/index.m3u8
-#EXTINF:-1,Discovery HD
-http://151.80.18.177:86/Discovery_HD/index.m3u8
-#EXTINF:-0.RMC DECOUVERDE
-http://151.80.18.177:86/RMC_Decouverte_HD/index.m3u8
-#EXTINF:-1,M6 HD
-http://151.80.18.177:86/M6_HD/index.m3u8
-#EXTINF:-1,W9 HD
-http://151.80.18.177:86/W9_HD/index.m3u8
-#EXTINF:-1,NRJ_12 HD
-http://151.80.18.177:86/NRJ_12_HD/index.m3u8
-#EXTINF:-1,TRACE URBAN
-http://151.80.18.177:86/Trace_Urban_HD/index.m3u8
-#EXTINF:-1,D17 CSTAR HD
-http://151.80.18.177:86/D17_HD/index.m3u8
-#EXTINF:-1,CANAL+ Sport
-http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
-#EXTINF:-1,GOLF+
-http://151.80.18.177:86/GOLF+_HD/index.m3u8
-#EXTINF:-1,Euro Sport HD
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1,Euro Sport 2 HD
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-#EXTINF:-1,Disney HD
-http://151.80.18.177:86/Disney_Channel_HD/index.m3u8
-#EXTINF:-1,Tiji HD
-http://151.80.18.177:86/Tiji_HD/index.m3u8
-#EXTINF:-1,LCI HD
-http://151.80.18.177:86/LCI_HD/index.m3u8
-
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTINF:0 tvg-id="XHBO.hu" tvg-name="HBO HU", HBO HU
-#EXTGRP:Венгрия http://de.online24.pm/play/753/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XHBO.2.hu" tvg-name="HBO 2 HU", HBO 2 HU
-#EXTGRP:Венгрия http://de.online24.pm/play/895/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XHBO.3.hu" tvg-name="HBO 3 HU", HBO 3 HU
-#EXTGRP:Венгрия http://de.online24.pm/play/894/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XHIR.TV.hu" tvg-name="HirTV HU", HirTV HU
-#EXTGRP:Венгрия http://de.online24.pm/play/754/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XHistory.Channel.hu" tvg-name="History HU", History HU
-#EXTGRP:Венгрия http://de.online24.pm/play/755/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XJocky.TV.hu" tvg-name="Jocky TV HU", Jocky TV HU
-#EXTGRP:Венгрия http://de.online24.pm/play/756/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XMoziverzum.hu" tvg-name="Moziverzum HU", Moziverzum HU
-#EXTGRP:Венгрия http://de.online24.pm/play/759/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XSpektrum.hu" tvg-name="Spektrum HU", Spektrum HU
-#EXTGRP:Венгрия http://de.online24.pm/play/760/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XATV.hu" tvg-name="ATV HU", ATV HU
-#EXTGRP:Венгрия http://de.online24.pm/play/764/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XATV.SPIRIT.hu" tvg-name="ATV Spirit HU", ATV Spirit HU
-#EXTGRP:Венгрия http://de.online24.pm/play/765/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XCool.TV.hu" tvg-name="Cool HU", Cool HU
-#EXTGRP:Венгрия http://de.online24.pm/play/766/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XFilmBox.Stars.hu" tvg-name="FilmBox Stars HU", FilmBox Stars HU
-#EXTGRP:Венгрия http://de.online24.pm/play/768/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XFilm.Café.hu" tvg-name="Film Cafe HU", Film Cafe HU
-#EXTGRP:Венгрия http://de.online24.pm/play/770/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XFilmbox.Family.hu" tvg-name="Filmbox Family HU", Filmbox Family HU
-#EXTGRP:Венгрия http://de.online24.pm/play/771/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XRTL.hu" tvg-name="RTL HU", RTL HU
-#EXTGRP:Венгрия http://de.online24.pm/play/772/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XSpíler1.TV.hu" tvg-name="Spiler TV HU", Spiler TV HU
-#EXTGRP:Венгрия http://de.online24.pm/play/773/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XTV2.hu" tvg-name="TV2 HU", TV2 HU
-#EXTGRP:Венгрия http://de.online24.pm/play/775/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XViasat.Nature.hu" tvg-name="Viasat Nature HU", Viasat Nature HU
-#EXTGRP:Венгрия http://de.online24.pm/play/776/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XMinimax.hu" tvg-name="Minimax HU", Minimax HU
-#EXTGRP:Венгрия http://de.online24.pm/play/777/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XNicktoons.hu" tvg-name="Nicktoons HU", Nicktoons HU
-#EXTGRP:Венгрия http://de.online24.pm/play/778/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XNickelodeon.hu" tvg-name="Nickelodeon HU", Nickelodeon HU
-#EXTGRP:Венгрия http://de.online24.pm/play/779/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XSuper.TV2.hu" tvg-name="SuperTV2 HU", SuperTV2 HU
-#EXTGRP:Венгрия http://de.online24.pm/play/780/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-name="Direct One HU", Direct One HU
-#EXTGRP:Венгрия http://de.online24.pm/play/781/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XIzaura.TV.hu" tvg-name="Izaura TV HU", Izaura TV HU
-#EXTGRP:Венгрия http://de.online24.pm/play/782/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XMuzsika.TV.hu" tvg-name="Muzsika TV HU", Muzsika TV HU
-#EXTGRP:Венгрия http://de.online24.pm/play/783/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XSorozat+.hu" tvg-name="Sorozat+ HU", Sorozat+ HU
-#EXTGRP:Венгрия http://de.online24.pm/play/787/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XRTL.GOLD.hu" tvg-name="RTL GOLD HU", RTL GOLD HU
-#EXTGRP:Венгрия http://de.online24.pm/play/789/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XRTL.KETTŐ.hu" tvg-name="RTL KETTO HU", RTL KETTO HU
-#EXTGRP:Венгрия http://de.online24.pm/play/790/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XRTL.HÁROM.hu" tvg-name="RTL HAROM HU", RTL HAROM HU
-#EXTGRP:Венгрия http://de.online24.pm/play/791/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XCinemax.2.hu" tvg-name="Cinemax2 HU", Cinemax2 HU
-#EXTGRP:Венгрия http://de.online24.pm/play/794/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XBBC.Earth.hu" tvg-name="BBC Earth HU", BBC Earth HU
-#EXTGRP:Венгрия http://de.online24.pm/play/795/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XAuto.Motor.Sport.TV.hu" tvg-name="Auto Motor Sport HU", Auto Motor Sport HU
-#EXTGRP:Венгрия http://de.online24.pm/play/796/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XSláger.TV.hu" tvg-name="Slager TV HU", Slager TV HU
-#EXTGRP:Венгрия http://de.online24.pm/play/798/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XFilm.Mánia.hu" tvg-name="Film Mania HU", Film Mania HU
-#EXTGRP:Венгрия http://de.online24.pm/play/799/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XFilmbox.Extra.HD.hu" tvg-name="FilmBox Extra HD HU", FilmBox Extra HD HU
-#EXTGRP:Венгрия http://de.online24.pm/play/800/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XViasat.Explore.hu" tvg-name="Viasat Explore HD HU", Viasat Explore HD HU
-#EXTGRP:Венгрия http://de.online24.pm/play/901/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XViasat.History.hu" tvg-name="Viasat History HU", Viasat History HU
-#EXTGRP:Венгрия http://de.online24.pm/play/902/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XLifeTv.hu" tvg-name="Life TV HU", Life TV HU
-#EXTGRP:Венгрия http://de.online24.pm/play/903/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XAnimal.Planet.HD.hu" tvg-name="Animal Planet HU", Animal Planet HU
-#EXTGRP:Венгрия http://de.online24.pm/play/880/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XDiscovery.Channel.hu" tvg-name="Discovery HU", Discovery HU
-#EXTGRP:Венгрия http://de.online24.pm/play/884/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XID:.Investigation.Discovery.hu" tvg-name="ID Investigation Discovery HU", ID Investigation Discovery HU
-#EXTGRP:Венгрия http://de.online24.pm/play/885/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XNational.Geographic.Wild.HD.hu" tvg-name="Nat Geo Wild HU", Nat Geo Wild HU
-#EXTGRP:Венгрия http://de.online24.pm/play/900/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XDikh.TV.hu" tvg-name="Dikh TV HU", Dikh TV HU
-#EXTGRP:Венгрия http://de.online24.pm/play/881/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XSpektrum.Home.hu" tvg-name="Spektrum Home HU", Spektrum Home HU
-#EXTGRP:Венгрия http://de.online24.pm/play/886/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XAréna4.hu" tvg-name="Arena4 HU", Arena4 HU
-#EXTGRP:Венгрия http://de.online24.pm/play/887/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XCartoon.Network.hu" tvg-name="Cartoon Network HU", Cartoon Network HU
-#EXTGRP:Венгрия http://de.online24.pm/play/889/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XDuna.TV.hu" tvg-name="Duna HU", Duna HU
-#EXTGRP:Венгрия http://de.online24.pm/play/890/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="Xm4.hu" tvg-name="M4 HU", M4 HU
-#EXTGRP:Венгрия http://de.online24.pm/play/891/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XLove.Nature.hu" tvg-name="Love Nature HD HU", Love Nature HD HU
-#EXTGRP:Венгрия http://de.online24.pm/play/896/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XFilm+.hu" tvg-name="Film+ HU", Film+ HU
-#EXTGRP:Венгрия http://de.online24.pm/play/892/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-name="Magyar ATV HU", Magyar ATV HU
-#EXTGRP:Венгрия http://de.online24.pm/play/897/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XMagyar.Mozi.TV.hu" tvg-name="Magyar Mozi TV HU", Magyar Mozi TV HU
-#EXTGRP:Венгрия http://de.online24.pm/play/898/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XMozi+.hu" tvg-name="Mozi+ HU", Mozi+ HU
-#EXTGRP:Венгрия http://de.online24.pm/play/899/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XDuna.World.hu" tvg-name="Duna World / M4 Sport+ HU", Duna World / M4 Sport+ HU
-#EXTGRP:Венгрия http://de.online24.pm/play/767/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XSport1.hu" tvg-name="Sport 1 HU", Sport 1 HU
-#EXTGRP:Венгрия http://de.online24.pm/play/762/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XSport2.hu" tvg-name="Sport 2 HU", Sport 2 HU
-#EXTGRP:Венгрия http://de.online24.pm/play/774/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XSpíler2.TV.hu" tvg-name="Spiler 2 HU", Spiler 2 HU
-#EXTGRP:Венгрия http://de.online24.pm/play/761/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="Xm1.HD.hu" tvg-name="m1 HU", m1 HU
-#EXTGRP:Венгрия http://de.online24.pm/play/757/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="Xm2.HD.hu" tvg-name="m2 Petofi HU", m2 Petofi HU
-#EXTGRP:Венгрия http://de.online24.pm/play/758/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XMatch.4.hu" tvg-name="MATCH4 HD HU", MATCH4 HD HU
-#EXTGRP:Венгрия http://de.online24.pm/play/879/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XEurosport.HD.hu" tvg-name="Eurosport HU", Eurosport HU
-#EXTGRP:Венгрия http://de.online24.pm/play/882/219F6666A4460D8/video.m3u8
-#EXTINF:0 tvg-id="XEurosport.2.HD.hu" tvg-name="Eurosport 2 HU", Eurosport 2 HU
-#EXTGRP:Венгрия http://de.online24.pm/play/883/219F6666A4460D8/video.m3u8
-
- 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
-
-#EXTM3U
-#EXTINF:-1,HRT 1
-http://23.88.66.93/HRT_1/index.m3u8
-#EXTINF:-1,HRT 2
-http://23.88.66.93/HRT_2/index.m3u8
-#EXTINF:-1,HRT 3
-http://23.88.66.93/HRT_3/index.m3u8
-#EXTINF:-1,HRT 4
-http://23.88.66.93/HRT_4/index.m3u8
-#EXTINF:-1,PTPC
-http://23.88.66.93//RTRS/index.m3u8
-#EXTINF:-1,PTC 1
-http://23.88.66.93/RTS_1/index.m3u8
-#EXTINF:-1,PTC
-http://23.88.66.93/RTS_2/index.m3u8
-#EXTINF:-1,PTC 3
-http://23.88.66.93/RTS_3/index.m3u8
-#EXTINF:-1,OBN
-http://23.88.66.93/OBN/index.m3u8
-#EXTINF:-1,RTL 2
-http://23.88.66.93/RTL_2/index.m3u8
-#EXTINF:-1,RTK 1
-http://23.88.66.93/RTK_1/index.m3u8
-#EXTINF:-1,HBO
-http://23.88.66.93/HBO/index.m3u8
-#EXTINF:-1,HBO 2
-http://23.88.66.93/HBO_2/index.m3u8
-#EXTINF:-1,HBO 3
-http://23.88.66.93/HBO_3/index.m3u8
-#EXTINF:-1,Cinemax
-http://23.88.66.93/Cinemax/index.m3u8
-#EXTINF:-1,Cinemax 2
-http://23.88.66.93/Cinemax_2/index.m3u8
-#EXTINF:-1,Pink Film
-http://23.88.66.93/Pink_Film/index.m3u8
-#EXTINF:-1,Pink Serije
-http://23.88.66.93/Pink_Serije/index.m3u8
-#EXTINF:-1,Discovery HD
-http://23.88.66.93/Discovery/index.m3u8
-#EXTINF:-1,Minimax
-http://23.88.66.93/Minimax/index.m3u8
-#EXTINF:-1,Star Crime
-http://23.88.66.93/Fox_Crime/index.m3u8
-#EXTINF:-1,Fox_Life HD
-http://23.88.66.93/Fox_Life/index.m3u8
-#EXTINF:-1,Fox HD
-http://23.88.66.93/Fox/index.m3u8
-#EXTINF:-1,Cinemania HD
-http://23.88.66.93/Cinemania/index.m3u8
-#EXTINF:-1,Max Sport 1 HD
-http://23.88.66.93/MAXSPORT_1/index.m3u8
-#EXTINF:-1,Max Sport 1 HD
-http://23.88.66.93/MAXSPORT_2/index.m3u8
-#EXTINF:-1,Eurosport 1 HD
-http://23.88.66.93/Eurosport1/index.m3u8
-#EXTINF:-1,Eurosport 2 HD
-http://23.88.66.93/Eurosport2/index.m3u8
-#EXTINF:-1,ARD HD
-http://23.88.66.93/ARD/index.m3u8
-#EXTINF:-1,ZDF HD
-http://23.88.66.93/ZDF/index.m3u8
-#EXTINF:-1,HAYAT HD
-http://23.88.66.93/HAYAT/index.m3u8
-#EXTINF:-1,Face HD
-http://23.88.66.93/Face/index.m3u8
-#EXTINF:-1,VOX HD
-http://23.88.66.93/VOX/index.m3u8
-#EXTINF:-1,FTV HD
-http://23.88.66.93/FTV/index.m3u8
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
------------------------------------------------------------
-🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹 [LINE] 🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹🔹
 
 -----------------------------------------------------------
 
