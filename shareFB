@@ -1606,17 +1606,17 @@ https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/znsa.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://image.discovery.indazn.com/ca/v2/ca/image?id=a5inhkok5yrf1826le2ie3gxh_image-header_pRow_1720521702000&quality=10" group-title="SPORTS 2 HD", DAZN 4⭐⭐⭐
 ⭐⭐⭐#######https://raw.githubusercontent.com/hnnyo/lgi/refs/heads/main/zn4.m3u8
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 1
-http://tv.8dott.xyz:80/live/samuel/samuel123456/697057.ts
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 2
-http://tv.8dott.xyz:80/live/samuel/samuel123456/697056.ts
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 1⭐⭐⭐
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 3
-http://tv.8dott.xyz:80/live/samuel/samuel123456/697055.ts
 
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 4
-http://tv.8dott.xyz:80/live/samuel/samuel123456/697060.ts
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 2⭐⭐⭐
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 3⭐⭐⭐
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://www.newscaststudio.com/wp-content/uploads/2023/02/tnt-sports-logo-preview.jpg",TNT SPORTS 4⭐⭐⭐
 
 
 ___________
@@ -1647,6 +1647,28 @@ https://kudos111.terranovax1.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
 
 
 ____________
+
+-----------------------------------------
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://foto.sondakika.com/haber/2023/09/12/tivibu-spor-tff-baskani-mehmet-buyukeksi-yi-16320598_amp.jpg", Tivibu Spor 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/t1/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://foto.sondakika.com/haber/2023/09/12/tivibu-spor-tff-baskani-mehmet-buyukeksi-yi-16320598_amp.jpg", Tivibu Spor 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/t2/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://foto.sondakika.com/haber/2023/09/12/tivibu-spor-tff-baskani-mehmet-buyukeksi-yi-16320598_amp.jpg", Tivibu Spor 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/t3/index.m3u8
+
+
+#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://foto.sondakika.com/haber/2023/09/12/tivibu-spor-tff-baskani-mehmet-buyukeksi-yi-16320598_amp.jpg", Tivibu Spor 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+http://65.108.239.207/t4/index.m3u8
+
 
 ---------
 arena sport
@@ -1726,27 +1748,6 @@ http://185.166.252.230/Eurosport2/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://185.166.252.230/AutoMotorSport/index.m3u8
 
-
------------------------------------------
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://foto.sondakika.com/haber/2023/09/12/tivibu-spor-tff-baskani-mehmet-buyukeksi-yi-16320598_amp.jpg", Tivibu Spor 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://65.108.239.207/t1/index.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://foto.sondakika.com/haber/2023/09/12/tivibu-spor-tff-baskani-mehmet-buyukeksi-yi-16320598_amp.jpg", Tivibu Spor 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://65.108.239.207/t2/index.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://foto.sondakika.com/haber/2023/09/12/tivibu-spor-tff-baskani-mehmet-buyukeksi-yi-16320598_amp.jpg", Tivibu Spor 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://65.108.239.207/t3/index.m3u8
-
-
-#EXTINF:-1 group-title="SPORTS 2 HD" tvg-logo="https://foto.sondakika.com/haber/2023/09/12/tivibu-spor-tff-baskani-mehmet-buyukeksi-yi-16320598_amp.jpg", Tivibu Spor 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) MPF.Players/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-http://65.108.239.207/t4/index.m3u8
 
 ------------------------------------------------
 
